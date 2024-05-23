@@ -1,0 +1,838 @@
+,fsqID,venueName,formattedAddress,catID,catName,catIDGroup,distance,rating,totalRatings,totalPhotos,totalTips,popularity,price,storeVerified,stationIndex
+0,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,188,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,0
+1,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,818,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,0
+2,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,579,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,0
+3,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,830,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,0
+4,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,972,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,0
+5,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,240,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,0
+6,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,871,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,0
+7,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,728,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,0
+8,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,66,,,,,0.9632430797156255,1.0,False,0
+9,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,209,,,,,0.7390712448948722,,False,0
+10,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,242,,,,,0.673649977310543,1.0,False,0
+11,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,289,,,,,0.956738768718802,2.0,True,0
+12,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,388,,,,,0.8829980335803963,2.0,False,0
+13,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,484,,,,,0.9012252306761458,2.0,False,0
+14,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,566,,,,,0.9133262743911662,1.0,False,0
+15,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,598,,,,,0.1645741945242777,,False,0
+16,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,604,,,,,0.2177431553471487,,False,0
+17,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,644,,,,,0.9745121766752383,1.0,False,0
+18,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,654,,,,,0.9155952200877325,,False,0
+19,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,673,,,,,0.8174255029496295,,False,0
+20,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,718,,,,,0.5251096657086674,,False,0
+21,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,182,,,,,,,False,0
+22,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,203,,,,,,,False,0
+23,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,315,,,,,,,False,0
+24,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,336,,,,,,,False,0
+25,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,374,,,,,,,False,0
+26,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,375,,,,,,,False,0
+27,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,430,,,,,,,False,0
+28,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,458,,,,,,,False,0
+29,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,533,,,,,,,False,0
+30,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,562,,,,,,,False,0
+31,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,722,,,,,,,False,0
+32,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,764,,,,,,,False,0
+33,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,784,,,,,,,False,0
+34,898ebebb75f0f1a08fc64815,Canelo's,"2605 S Market St, Redding, CA 96001",13065,Restaurant,Dining and Drinking,812,,,,,,,False,0
+35,ec187df965fd4e6c697f5c64,Little Sprouts Urban Farm,"1022 State St, Redding, CA 96001",16014,Farm,Landmarks and Outdoors,931,,,,,,,False,0
+36,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,994,,,,,,,False,0
+37,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,224,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,1
+38,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,418,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,1
+39,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,172,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,1
+40,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,436,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,1
+41,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,563,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,1
+42,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,462,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,1
+43,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,324,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,1
+44,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,240,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,1
+45,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,51,,,,,0.8829980335803963,2.0,False,1
+46,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,104,,,,,0.9012252306761458,2.0,False,1
+47,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,158,,,,,0.9133262743911662,1.0,False,1
+48,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,698,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,1
+49,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,204,,,,,0.7390712448948722,,False,1
+50,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,230,,,,,0.956738768718802,2.0,True,1
+51,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,249,,,,,0.9552261382544245,1.0,False,1
+52,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,309,,,,,0.5251096657086674,,False,1
+53,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,406,,,,,0.9632430797156255,1.0,False,1
+54,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,412,,,,,0.9745121766752383,1.0,False,1
+55,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,651,,,,,0.673649977310543,1.0,False,1
+56,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,724,,,,,0.9695204961427923,1.0,False,1
+57,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,927,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,1
+58,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,980,,,,,0.2177431553471487,,False,1
+59,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,980,,,,,0.1645741945242777,,False,1
+60,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,1018,,,,,0.30850098320980185,,False,1
+61,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,55,,,,,,,False,1
+62,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,99,,,,,,,False,1
+63,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,154,,,,,,,False,1
+64,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,173,,,,,,,False,1
+65,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,179,,,,,,,False,1
+66,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,197,,,,,,,False,1
+67,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,212,,,,,,,False,1
+68,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,312,,,,,,,False,1
+69,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,330,,,,,,,False,1
+70,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,387,,,,,,,False,1
+71,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,556,,,,,,,False,1
+72,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,598,,,,,,,False,1
+73,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,605,,,,,,,False,1
+74,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,659,,,,,,,False,1
+75,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,664,,,,,,,False,1
+76,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,812,,,,,,,False,1
+77,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,333,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,2
+78,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,318,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,2
+79,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,78,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,2
+80,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,354,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,2
+81,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,470,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,2
+82,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,368,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,2
+83,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,231,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,2
+84,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,327,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,2
+85,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,63,,,,,0.9133262743911662,1.0,False,2
+86,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,75,,,,,0.9012252306761458,2.0,False,2
+87,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,638,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,2
+88,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,129,,,,,0.8829980335803963,2.0,False,2
+89,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,214,,,,,0.5251096657086674,,False,2
+90,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,299,,,,,0.7390712448948722,,False,2
+91,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,310,,,,,0.956738768718802,2.0,True,2
+92,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,333,,,,,0.9552261382544245,1.0,False,2
+93,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,392,,,,,0.9745121766752383,1.0,False,2
+94,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,498,,,,,0.9632430797156255,1.0,False,2
+95,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,676,,,,,0.9695204961427923,1.0,False,2
+96,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,745,,,,,0.673649977310543,1.0,False,2
+97,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,882,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,2
+98,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,1031,,,,,0.30850098320980185,,False,2
+99,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,57,,,,,,,False,2
+100,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,61,,,,,,,False,2
+101,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,192,,,,,,,False,2
+102,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,218,,,,,,,False,2
+103,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,237,,,,,,,False,2
+104,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,240,,,,,,,False,2
+105,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,247,,,,,,,False,2
+106,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,296,,,,,,,False,2
+107,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,306,,,,,,,False,2
+108,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,393,,,,,,,False,2
+109,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,514,,,,,,,False,2
+110,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,521,,,,,,,False,2
+111,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,578,,,,,,,False,2
+112,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,590,,,,,,,False,2
+113,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,647,,,,,,,False,2
+114,43064c8f07ca440afb7a9b80,Extol,"737 Auditorium Dr, Redding, CA 96001",10006,Bowling Alley,Arts and Entertainment,820,,,,,,,False,2
+115,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,895,,,,,,,False,2
+116,4c4c76ec712ac9281194606e,Caldwell Park,"56 Quartz Hill Rd, Redding, CA 96003",16032,Park,Landmarks and Outdoors,677,7.8,10.0,39.0,1.0,0.9915292693994857,,False,3
+117,5a15e884ad178924230b2419,Diestelhorst Landing Trail Head,"Redding, CA 96003",16019,Hiking Trail,Landmarks and Outdoors,58,,,,,0.5699591589774619,,False,3
+118,4c43c3bf2d3ec9b61d0f2eae,Subway,"1950 Eureka Way, Redding, CA 96001",13039,Deli,Dining and Drinking,963,6.3,5.0,5.0,1.0,0.9689154439570413,1.0,False,3
+119,4c7d9ba8d461a143bfcb7df5,Lake Redding Golf Course,"1795 Benton Dr, Redding, CA 96003",18018,Golf Course,Sports and Recreation,307,,,,,0.9657389199818485,,False,3
+120,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,991,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,3
+121,515efc95793e4d715091c7f9,North Valley Art League,"48 Quartz Hill Rd, Redding, CA 96003",10004,Art Gallery,Arts and Entertainment,540,,,,,0.5428074421418847,,False,3
+122,a714d0b3b485415dc040500a,Halloween Haunt,"44 Quartz Hill Rd, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,543,,,,,0.15859930418998638,,False,3
+123,d5bdd6013d1b17e72f53a78e,West Redding Little League Field,"Quartz Hill Rd, Redding , 96003, United States, Redding, CA 96003",18000,Sports and Recreation,Sports and Recreation,546,,,,,0.5071093631825745,,False,3
+124,4c262b9ca852c928f614e66c,Redding Aquatic Center,"44 Quartz Hill Rd (Benton), Redding, CA 96003",18075,Swimming Pool,Sports and Recreation,644,,,,,0.09786719104522765,,False,3
+125,4e264797e4cd60a2c6249f09,Redding Skate Park,"58 Quartz Hill Rd, Redding, CA 96003",18055,Skate Park,Sports and Recreation,671,,,,,0.8808803509302677,,False,3
+126,5013426ae4b06bc0bd58866a,Jump River Park,"56 Quartz Hill Rd, Redding, CA 96003",16037,Playground,Landmarks and Outdoors,731,,,,,0.8555437906519437,,False,3
+127,4c25616f136d20a14694e361,Lake Redding Park,"2275 Benton Dr, Redding, CA 96003",16037,Playground,Landmarks and Outdoors,767,,,,,0.9816971713810316,,False,3
+128,4e2baa53fa76bbf847dc7dd0,Caldwell Recreation Center,"56 Quartz Hill Rd, Redding, CA 96003",18048,Recreation Center,Sports and Recreation,820,,,,,0.9067463318711239,,False,3
+129,505d17e7e4b04d802adf880c,Fish Viewing Facility,"Redding, CA 96003",16043,River,Landmarks and Outdoors,859,,,,,0.8302072303736198,,False,3
+130,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,877,,,,,0.846089850249584,,False,3
+131,f93256115d821c6a00455e82,Pizza Guys,"2110 Eureka Way, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,901,,,,,0.6783391317501134,1.0,False,3
+132,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,990,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,3
+133,5f6ffbdf2ced3145f09488f8,Chicken Shack - Eureka Way,"1970 Eureka Way, Redding, CA 96001",13055,Fried Chicken Joint,Dining and Drinking,949,,,,,0.9106791710785055,1.0,False,3
+134,d531b94db0d04a1701155d26,Camp Hope Shasta,"2280 Benton Dr, Redding, CA 96003",16008,Campground,Landmarks and Outdoors,146,,,,,,,False,3
+135,419beeb230934da994edbfee,Let's Dance Redding,"250 Elk Dr, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,254,,,,,,,False,3
+136,fb3ed77728bd463da571736d,Dale Maynor Fitness Training,"1861 RIO Dr, Redding, CA 96003",11020,Business and Strategy Consulting Office,Business and Professional Services,256,,,,,,,False,3
+137,678166f8880d4b10abcb7ac5,Alexandra Stephens Art,"375 Agate Way, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,331,,,,,,,False,3
+138,b673d1114c5153f70fc6be31,Lake Redding,"1795 Benton Dr, Redding, CA 96003",17122,Golf Store,Retail,891,,,,,,,False,3
+139,ea30a2bf17534bbfaa6c0f60,Shasta Family YMCA,"1155 N Court St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,900,,,,,,,False,3
+140,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,968,,,,,,,False,3
+141,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,978,,,,,,,False,3
+142,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,984,,,,,,,False,3
+143,4c6ac58a3bad2d7f8c43b3ee,Dutch Bros Coffee,"3025 S Market St (at Grange St), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,694,7.8,9.0,15.0,3.0,0.9812433822417184,1.0,True,4
+144,4b3189f1f964a520af0825e3,Yama Sushi,"40 Hartnell Ave, Redding, CA 96002",13276,Sushi Restaurant,Dining and Drinking,1004,6.8,14.0,26.0,11.0,0.9469823022235668,2.0,False,4
+145,4db8c9cfa86ee4fa7d2b3b72,Everyday Fitness,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,703,6.4,9.0,1.0,8.0,0.9703524428982,,False,4
+146,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,339,,,,,0.9155952200877325,,False,4
+147,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,364,,,,,0.1645741945242777,,False,4
+148,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,368,,,,,0.2177431553471487,,False,4
+149,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,431,,,,,0.8174255029496295,,False,4
+150,f957b60f28b7457fbdb4690f,Redding Jazzercise Center,"147 Locust St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,460,,,,,0.28792920889426715,,False,4
+151,5f36c1f3a58a76498be38bef,Los Cachorros Taqueria,"2425 Athens Ave, Redding, CA 96001",13303,Mexican Restaurant,Dining and Drinking,495,,,,,0.9587051883224929,1.0,False,4
+152,528938c811d2b3568c7e7f42,Kaleidoscope Coffee Company,"2380 Athens Ave (at Locust St), Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,510,,,,,0.9603690818333082,1.0,False,4
+153,8b361a22cb584d76667fe2e9,Jazzercise,"147 Locust St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,578,,,,,0.48638632582060204,,False,4
+154,4c5483c406901b8dddf0ed4b,Fast Weenies,"119 Locust St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,582,,,,,0.9276206322795341,1.0,False,4
+155,4c09b600ffb8c9b6777c6a61,Racha Noodle,"2630 S Market St, Redding, CA 96001",13315,Noodle Restaurant,Dining and Drinking,599,,,,,0.9609741340190592,2.0,False,4
+156,5c0cb566d48ec1002c4abd61,Everyday Fitness & Training,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,646,,,,,0.31334140069581,,False,4
+157,5752c83f3f624b35e811b2fb,Shady Acres Mobile Home Park,"2700 S Market St, Redding, CA 96001",16008,Campground,Landmarks and Outdoors,666,,,,,0.7944335198910906,,False,4
+158,561fc944498ed9b36c298b4b,Crump Fitness and Self Defense,"1040 Locust St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,670,,,,,0.8100136136741793,,False,4
+159,4cbf4173c44f9c7467ddbbdf,Under the Rainbow Ceramic & Porcelain Studio,"2930 S Market St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,673,,,,,0.1413553168960823,,False,4
+160,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,727,,,,,0.673649977310543,1.0,False,4
+161,60e1eb9b54c46f68046bfcbe,Evergreen - Coffee Shop + Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,784,,,,,0.967856602631977,1.0,False,4
+162,bfb9ac0acb394511e77f651d,Iamwell,"2649 Park Marina Dr, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,855,,,,,0.6778853426108001,,False,4
+163,4e4195fc18a8540732f0acc0,Sublime Cake Design,"2633 Park Marina Dr, Redding, CA 96001",13002,Bakery,Dining and Drinking,857,,,,,0.9559068219633944,1.0,False,4
+164,4e4d4fef62e1e5f467226e3b,Marina RV Park,"2615 Park Marina Dr, Redding, CA 96001",16008,Campground,Landmarks and Outdoors,881,,,,,0.9034941763727121,,False,4
+165,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,939,,,,,0.9632430797156255,1.0,False,4
+166,65a9c9ede0724622a03573df,Pourboys Tapyard,"2040 Waldon St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,991,,,,,0.959839661170776,,False,4
+167,2f6094b4dd7444660535b692,Redding Police Department Redding,"777 Cypress Ave, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,74,,,,,,,False,4
+168,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,189,,,,,,,False,4
+169,ec187df965fd4e6c697f5c64,Little Sprouts Urban Farm,"1022 State St, Redding, CA 96001",16014,Farm,Landmarks and Outdoors,400,,,,,,,False,4
+170,c85bed600999432eca363c9e,Lucky Miller's Deli & Market,"2495 Athens Ave, Redding, CA 96001",13065,Restaurant,Dining and Drinking,460,,,,,,,False,4
+171,086ef0913cf446afcdfe97cf,Redding Recreation,"1250 Parkview Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,478,,,,,,,False,4
+172,e21811da3c6c468dcaecf05f,LIT From Within - Studio B,"2449 Athens Ave, Redding, CA 96001",16001,Bathing Area,Landmarks and Outdoors,494,,,,,,,False,4
+173,d78d9651141d45e8d76ad7ec,OsteoStrong,"2435 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,496,,,,,,,False,4
+174,898ebebb75f0f1a08fc64815,Canelo's,"2605 S Market St, Redding, CA 96001",13065,Restaurant,Dining and Drinking,505,,,,,,,False,4
+175,3d09b9e31f4a4b6778287e77,Organic Pilates,"169 Locust St, Redding, CA 96001",18027,Pilates Studio,Sports and Recreation,574,,,,,,,False,4
+176,a7a3e2f5f38043312c8fb9c0,Fit Republic,"2350 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,591,,,,,,,False,4
+177,791304813dc34dee56cafc78,Fast Weenies,"175 Locust St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,630,,,,,,,False,4
+178,6b3dc2050a634a5097b31ccc,Dragon Jim's Tattoo and Piercing Emporium,"2925 Favretto Ave, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,644,,,,,,,False,4
+179,1a9eb055d4834945f231cf07,The Living Water Studio,"2118 East St, Redding, CA 96001",18028,Yoga Studio,Sports and Recreation,712,,,,,,,False,4
+180,6c25b8451b33bce521b25719,Slide Ride Run and Glide,"393 Park Marina Cir, Redding, CA 96001",10051,Stadium,Arts and Entertainment,716,,,,,,,False,4
+181,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,787,,,,,,,False,4
+182,b00095cfc65a4417224d7525,PhD Martial Arts,"2645 Park Marina Dr, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,855,,,,,,,False,4
+183,95b4d48bee5545643f3612e4,Elite Barre Fitness Studio,"2446 Henderson Rd, Redding, CA 96002",18025,Dance Studio,Sports and Recreation,923,,,,,,,False,4
+184,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,322,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,5
+185,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,287,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,5
+186,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,866,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,5
+187,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,577,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,5
+188,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,404,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,5
+189,55f24bb7498e520079e15190,Anthony's Mediterranean Cuisine,"2475 Eureka Way, Redding, CA 96001",13188,Souvlaki Shop,Dining and Drinking,829,8.1,16.0,3.0,3.0,0.9590077144153684,,False,5
+190,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,410,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,5
+191,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,548,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,5
+192,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,43,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,5
+193,5839cf23424f9379715e5abb,Final Draft Brewi,"1600 California St, Redding, CA 96001",13003,Bar,Dining and Drinking,672,6.7,16.0,56.0,6.0,0.9736045983966117,2.0,True,5
+194,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,780,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,5
+195,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,150,,,,,0.9695204961427923,1.0,False,5
+196,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,321,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,5
+197,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,493,,,,,0.5251096657086674,,False,5
+198,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,576,,,,,0.9133262743911662,1.0,False,5
+199,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,630,,,,,0.846089850249584,,False,5
+200,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,659,,,,,0.8829980335803963,2.0,False,5
+201,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,675,,,,,0.9012252306761458,2.0,False,5
+202,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,732,,,,,0.956738768718802,2.0,True,5
+203,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,764,,,,,0.9552261382544245,1.0,False,5
+204,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,782,,,,,0.30850098320980185,,False,5
+205,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,818,,,,,0.7390712448948722,,False,5
+206,515efc95793e4d715091c7f9,North Valley Art League,"48 Quartz Hill Rd, Redding, CA 96003",10004,Art Gallery,Arts and Entertainment,862,,,,,0.5428074421418847,,False,5
+207,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,929,,,,,0.9745121766752383,1.0,False,5
+208,a714d0b3b485415dc040500a,Halloween Haunt,"44 Quartz Hill Rd, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,968,,,,,0.15859930418998638,,False,5
+209,4e2baa53fa76bbf847dc7dd0,Caldwell Recreation Center,"56 Quartz Hill Rd, Redding, CA 96003",18048,Recreation Center,Sports and Recreation,1017,,,,,0.9067463318711239,,False,5
+210,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,63,,,,,,,False,5
+211,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,230,,,,,,,False,5
+212,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,234,,,,,,,False,5
+213,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,492,,,,,,,False,5
+214,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,579,,,,,,,False,5
+215,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,582,,,,,,,False,5
+216,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,588,,,,,,,False,5
+217,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,614,,,,,,,False,5
+218,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,644,,,,,,,False,5
+219,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,681,,,,,,,False,5
+220,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,694,,,,,,,False,5
+221,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,728,,,,,,,False,5
+222,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,757,,,,,,,False,5
+223,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,823,,,,,,,False,5
+224,a5285ceba9f14334d5029893,Smallshots,"2536 Old Eureka Way, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,963,,,,,,,False,5
+225,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,958,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,6
+226,4c6ac58a3bad2d7f8c43b3ee,Dutch Bros Coffee,"3025 S Market St (at Grange St), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,556,7.8,9.0,15.0,3.0,0.9812433822417184,1.0,True,6
+227,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,995,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,6
+228,4db8c9cfa86ee4fa7d2b3b72,Everyday Fitness,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,937,6.4,9.0,1.0,8.0,0.9703524428982,,False,6
+229,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,128,,,,,0.9155952200877325,,False,6
+230,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,146,,,,,0.8174255029496295,,False,6
+231,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,311,,,,,0.1645741945242777,,False,6
+232,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,332,,,,,0.2177431553471487,,False,6
+233,5752c83f3f624b35e811b2fb,Shady Acres Mobile Home Park,"2700 S Market St, Redding, CA 96001",16008,Campground,Landmarks and Outdoors,399,,,,,0.7944335198910906,,False,6
+234,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,532,,,,,0.673649977310543,1.0,False,6
+235,561fc944498ed9b36c298b4b,Crump Fitness and Self Defense,"1040 Locust St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,550,,,,,0.8100136136741793,,False,6
+236,60e1eb9b54c46f68046bfcbe,Evergreen - Coffee Shop + Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,636,,,,,0.967856602631977,1.0,False,6
+237,f957b60f28b7457fbdb4690f,Redding Jazzercise Center,"147 Locust St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,747,,,,,0.28792920889426715,,False,6
+238,65a9c9ede0724622a03573df,Pourboys Tapyard,"2040 Waldon St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,754,,,,,0.959839661170776,,False,6
+239,528938c811d2b3568c7e7f42,Kaleidoscope Coffee Company,"2380 Athens Ave (at Locust St), Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,767,,,,,0.9603690818333082,1.0,False,6
+240,5f36c1f3a58a76498be38bef,Los Cachorros Taqueria,"2425 Athens Ave, Redding, CA 96001",13303,Mexican Restaurant,Dining and Drinking,775,,,,,0.9587051883224929,1.0,False,6
+241,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,779,,,,,0.9632430797156255,1.0,False,6
+242,5c0cb566d48ec1002c4abd61,Everyday Fitness & Training,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,869,,,,,0.31334140069581,,False,6
+243,4c5483c406901b8dddf0ed4b,Fast Weenies,"119 Locust St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,871,,,,,0.9276206322795341,1.0,False,6
+244,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,983,,,,,0.7390712448948722,,False,6
+245,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,1007,,,,,0.9552261382544245,1.0,False,6
+246,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,1163,,,,,0.8829980335803963,2.0,False,6
+247,ec187df965fd4e6c697f5c64,Little Sprouts Urban Farm,"1022 State St, Redding, CA 96001",16014,Farm,Landmarks and Outdoors,208,,,,,,,False,6
+248,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,212,,,,,,,False,6
+249,898ebebb75f0f1a08fc64815,Canelo's,"2605 S Market St, Redding, CA 96001",13065,Restaurant,Dining and Drinking,234,,,,,,,False,6
+250,2f6094b4dd7444660535b692,Redding Police Department Redding,"777 Cypress Ave, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,341,,,,,,,False,6
+251,6b3dc2050a634a5097b31ccc,Dragon Jim's Tattoo and Piercing Emporium,"2925 Favretto Ave, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,548,,,,,,,False,6
+252,1a9eb055d4834945f231cf07,The Living Water Studio,"2118 East St, Redding, CA 96001",18028,Yoga Studio,Sports and Recreation,591,,,,,,,False,6
+253,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,639,,,,,,,False,6
+254,c85bed600999432eca363c9e,Lucky Miller's Deli & Market,"2495 Athens Ave, Redding, CA 96001",13065,Restaurant,Dining and Drinking,747,,,,,,,False,6
+255,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,752,,,,,,,False,6
+256,d78d9651141d45e8d76ad7ec,OsteoStrong,"2435 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,777,,,,,,,False,6
+257,e21811da3c6c468dcaecf05f,LIT From Within - Studio B,"2449 Athens Ave, Redding, CA 96001",16001,Bathing Area,Landmarks and Outdoors,777,,,,,,,False,6
+258,a7a3e2f5f38043312c8fb9c0,Fit Republic,"2350 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,807,,,,,,,False,6
+259,7a1613a08bdb43e51a816a2b,Celebration Family Fitness Center Of Redding,"1950 California St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,826,,,,,,,False,6
+260,3d09b9e31f4a4b6778287e77,Organic Pilates,"169 Locust St, Redding, CA 96001",18027,Pilates Studio,Sports and Recreation,863,,,,,,,False,6
+261,791304813dc34dee56cafc78,Fast Weenies,"175 Locust St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,914,,,,,,,False,6
+262,6c25b8451b33bce521b25719,Slide Ride Run and Glide,"393 Park Marina Cir, Redding, CA 96001",10051,Stadium,Arts and Entertainment,966,,,,,,,False,6
+263,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,977,,,,,,,False,6
+264,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,360,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,7
+265,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,453,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,7
+266,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,187,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,7
+267,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,483,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,7
+268,4f22006ae4b0085e4778f228,Redding Civic Auditorium,"700 Auditorium Dr, Redding, CA 96001",10037,Concert Hall,Arts and Entertainment,875,8.1,41.0,104.0,6.0,0.9800332778702163,,False,7
+269,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,525,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,7
+270,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,434,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,7
+271,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,254,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,7
+272,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,443,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,7
+273,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,127,,,,,0.9012252306761458,2.0,False,7
+274,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,192,,,,,0.9133262743911662,1.0,False,7
+275,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,196,,,,,0.9745121766752383,1.0,False,7
+276,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,798,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,7
+277,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,275,,,,,0.8829980335803963,2.0,False,7
+278,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,285,,,,,0.5251096657086674,,False,7
+279,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,376,,,,,0.7390712448948722,,False,7
+280,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,445,,,,,0.956738768718802,2.0,True,7
+281,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,458,,,,,0.9552261382544245,1.0,False,7
+282,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,510,,,,,0.9632430797156255,1.0,False,7
+283,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,766,,,,,0.673649977310543,1.0,False,7
+284,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,851,,,,,0.9695204961427923,1.0,False,7
+285,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,187,,,,,,,False,7
+286,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,235,,,,,,,False,7
+287,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,282,,,,,,,False,7
+288,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,288,,,,,,,False,7
+289,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,297,,,,,,,False,7
+290,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,383,,,,,,,False,7
+291,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,395,,,,,,,False,7
+292,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,403,,,,,,,False,7
+293,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,417,,,,,,,False,7
+294,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,502,,,,,,,False,7
+295,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,553,,,,,,,False,7
+296,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,623,,,,,,,False,7
+297,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,630,,,,,,,False,7
+298,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,638,,,,,,,False,7
+299,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,734,,,,,,,False,7
+300,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,320,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,8
+301,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,285,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,8
+302,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,791,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,8
+303,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,538,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,8
+304,55f24bb7498e520079e15190,Anthony's Mediterranean Cuisine,"2475 Eureka Way, Redding, CA 96001",13188,Souvlaki Shop,Dining and Drinking,842,8.1,16.0,3.0,3.0,0.9590077144153684,,False,8
+305,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,448,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,8
+306,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,429,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,8
+307,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,538,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,8
+308,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,108,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,8
+309,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,693,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,8
+310,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,125,,,,,0.9695204961427923,1.0,False,8
+311,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,331,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,8
+312,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,478,,,,,0.5251096657086674,,False,8
+313,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,535,,,,,0.9133262743911662,1.0,False,8
+314,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,589,,,,,0.8829980335803963,2.0,False,8
+315,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,627,,,,,0.9012252306761458,2.0,False,8
+316,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,645,,,,,0.956738768718802,2.0,True,8
+317,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,666,,,,,0.846089850249584,,False,8
+318,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,676,,,,,0.9552261382544245,1.0,False,8
+319,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,702,,,,,0.30850098320980185,,False,8
+320,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,739,,,,,0.7390712448948722,,False,8
+321,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,905,,,,,0.9745121766752383,1.0,False,8
+322,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,959,,,,,0.9632430797156255,1.0,False,8
+323,515efc95793e4d715091c7f9,North Valley Art League,"48 Quartz Hill Rd, Redding, CA 96003",10004,Art Gallery,Arts and Entertainment,963,,,,,0.5428074421418847,,False,8
+324,4e2baa53fa76bbf847dc7dd0,Caldwell Recreation Center,"56 Quartz Hill Rd, Redding, CA 96003",18048,Recreation Center,Sports and Recreation,1107,,,,,0.9067463318711239,,False,8
+325,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,154,,,,,,,False,8
+326,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,291,,,,,,,False,8
+327,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,292,,,,,,,False,8
+328,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,478,,,,,,,False,8
+329,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,503,,,,,,,False,8
+330,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,540,,,,,,,False,8
+331,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,554,,,,,,,False,8
+332,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,559,,,,,,,False,8
+333,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,581,,,,,,,False,8
+334,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,597,,,,,,,False,8
+335,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,598,,,,,,,False,8
+336,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,656,,,,,,,False,8
+337,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,744,,,,,,,False,8
+338,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,792,,,,,,,False,8
+339,a5285ceba9f14334d5029893,Smallshots,"2536 Old Eureka Way, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,972,,,,,,,False,8
+340,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,548,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,9
+341,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,936,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,9
+342,4c6ac58a3bad2d7f8c43b3ee,Dutch Bros Coffee,"3025 S Market St (at Grange St), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,932,7.8,9.0,15.0,3.0,0.9812433822417184,1.0,True,9
+343,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,610,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,9
+344,4db8c9cfa86ee4fa7d2b3b72,Everyday Fitness,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,944,6.4,9.0,1.0,8.0,0.9703524428982,,False,9
+345,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,156,,,,,0.673649977310543,1.0,False,9
+346,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,236,,,,,0.1645741945242777,,False,9
+347,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,247,,,,,0.2177431553471487,,False,9
+348,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,291,,,,,0.9155952200877325,,False,9
+349,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,353,,,,,0.8174255029496295,,False,9
+350,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,366,,,,,0.9632430797156255,1.0,False,9
+351,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,581,,,,,0.7390712448948722,,False,9
+352,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,657,,,,,0.956738768718802,2.0,True,9
+353,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,758,,,,,0.8829980335803963,2.0,False,9
+354,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,832,,,,,0.9012252306761458,2.0,False,9
+355,528938c811d2b3568c7e7f42,Kaleidoscope Coffee Company,"2380 Athens Ave (at Locust St), Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,854,,,,,0.9603690818333082,1.0,False,9
+356,5c0cb566d48ec1002c4abd61,Everyday Fitness & Training,"2345 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,864,,,,,0.31334140069581,,False,9
+357,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,903,,,,,0.9745121766752383,1.0,False,9
+358,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,924,,,,,0.9133262743911662,1.0,False,9
+359,5f36c1f3a58a76498be38bef,Los Cachorros Taqueria,"2425 Athens Ave, Redding, CA 96001",13303,Mexican Restaurant,Dining and Drinking,924,,,,,0.9587051883224929,1.0,False,9
+360,f957b60f28b7457fbdb4690f,Redding Jazzercise Center,"147 Locust St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,934,,,,,0.28792920889426715,,False,9
+361,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,221,,,,,,,False,9
+362,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,391,,,,,,,False,9
+363,898ebebb75f0f1a08fc64815,Canelo's,"2605 S Market St, Redding, CA 96001",13065,Restaurant,Dining and Drinking,521,,,,,,,False,9
+364,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,575,,,,,,,False,9
+365,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,597,,,,,,,False,9
+366,ec187df965fd4e6c697f5c64,Little Sprouts Urban Farm,"1022 State St, Redding, CA 96001",16014,Farm,Landmarks and Outdoors,602,,,,,,,False,9
+367,2f6094b4dd7444660535b692,Redding Police Department Redding,"777 Cypress Ave, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,653,,,,,,,False,9
+368,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,684,,,,,,,False,9
+369,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,709,,,,,,,False,9
+370,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,722,,,,,,,False,9
+371,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,746,,,,,,,False,9
+372,a7a3e2f5f38043312c8fb9c0,Fit Republic,"2350 Athens Ave, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,800,,,,,,,False,9
+373,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,801,,,,,,,False,9
+374,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,825,,,,,,,False,9
+375,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,920,,,,,,,False,9
+376,e21811da3c6c468dcaecf05f,LIT From Within - Studio B,"2449 Athens Ave, Redding, CA 96001",16001,Bathing Area,Landmarks and Outdoors,936,,,,,,,False,9
+377,c85bed600999432eca363c9e,Lucky Miller's Deli & Market,"2495 Athens Ave, Redding, CA 96001",13065,Restaurant,Dining and Drinking,937,,,,,,,False,9
+378,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,91,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,10
+379,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,686,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,10
+380,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,419,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,10
+381,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,704,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,10
+382,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,817,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,10
+383,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,717,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,10
+384,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,245,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,10
+385,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,557,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,10
+386,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,154,,,,,0.7390712448948722,,False,10
+387,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,166,,,,,0.9632430797156255,1.0,False,10
+388,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,271,,,,,0.9552261382544245,1.0,False,10
+389,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,273,,,,,0.8829980335803963,2.0,False,10
+390,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,285,,,,,0.956738768718802,2.0,True,10
+391,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,312,,,,,0.9012252306761458,2.0,False,10
+392,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,959,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,10
+393,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,409,,,,,0.9133262743911662,1.0,False,10
+394,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,422,,,,,0.673649977310543,1.0,False,10
+395,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,440,,,,,0.9745121766752383,1.0,False,10
+396,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,559,,,,,0.5251096657086674,,False,10
+397,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,715,,,,,0.2177431553471487,,False,10
+398,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,716,,,,,0.1645741945242777,,False,10
+399,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,813,,,,,0.9155952200877325,,False,10
+400,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,853,,,,,0.8174255029496295,,False,10
+401,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,974,,,,,0.9695204961427923,1.0,False,10
+402,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,154,,,,,,,False,10
+403,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,206,,,,,,,False,10
+404,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,292,,,,,,,False,10
+405,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,300,,,,,,,False,10
+406,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,324,,,,,,,False,10
+407,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,327,,,,,,,False,10
+408,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,380,,,,,,,False,10
+409,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,404,,,,,,,False,10
+410,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,410,,,,,,,False,10
+411,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,562,,,,,,,False,10
+412,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,606,,,,,,,False,10
+413,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,722,,,,,,,False,10
+414,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,846,,,,,,,False,10
+415,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,867,,,,,,,False,10
+416,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,873,,,,,,,False,10
+417,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,893,,,,,,,False,10
+418,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,926,,,,,,,False,10
+419,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,261,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,11
+420,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,292,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,11
+421,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,340,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,11
+422,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,727,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,11
+423,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,155,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,11
+424,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,141,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,11
+425,4f22006ae4b0085e4778f228,Redding Civic Auditorium,"700 Auditorium Dr, Redding, CA 96001",10037,Concert Hall,Arts and Entertainment,933,8.1,41.0,104.0,6.0,0.9800332778702163,,False,11
+426,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,187,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,11
+427,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,743,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,11
+428,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,586,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,11
+429,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,212,,,,,0.5251096657086674,,False,11
+430,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,354,,,,,0.9133262743911662,1.0,False,11
+431,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,432,,,,,0.9012252306761458,2.0,False,11
+432,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,495,,,,,0.9745121766752383,1.0,False,11
+433,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,546,,,,,0.8829980335803963,2.0,False,11
+434,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,682,,,,,0.9695204961427923,1.0,False,11
+435,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,716,,,,,0.7390712448948722,,False,11
+436,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,720,,,,,0.956738768718802,2.0,True,11
+437,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,746,,,,,0.9552261382544245,1.0,False,11
+438,4e2baa53fa76bbf847dc7dd0,Caldwell Recreation Center,"56 Quartz Hill Rd, Redding, CA 96003",18048,Recreation Center,Sports and Recreation,758,,,,,0.9067463318711239,,False,11
+439,515efc95793e4d715091c7f9,North Valley Art League,"48 Quartz Hill Rd, Redding, CA 96003",10004,Art Gallery,Arts and Entertainment,775,,,,,0.5428074421418847,,False,11
+440,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,863,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,11
+441,a714d0b3b485415dc040500a,Halloween Haunt,"44 Quartz Hill Rd, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,869,,,,,0.15859930418998638,,False,11
+442,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,901,,,,,0.9632430797156255,1.0,False,11
+443,4bacf079f964a520e51b3be3,McConnell's Arboretum & Botanical Gardens Nursery,"Market Street, Redding, CA 96003",16005,Botanical Garden,Landmarks and Outdoors,905,,,,,0.9909242172137347,,False,11
+444,d5bdd6013d1b17e72f53a78e,West Redding Little League Field,"Quartz Hill Rd, Redding , 96003, United States, Redding, CA 96003",18000,Sports and Recreation,Sports and Recreation,992,,,,,0.5071093631825745,,False,11
+445,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,136,,,,,,,False,11
+446,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,209,,,,,,,False,11
+447,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,225,,,,,,,False,11
+448,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,321,,,,,,,False,11
+449,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,327,,,,,,,False,11
+450,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,357,,,,,,,False,11
+451,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,472,,,,,,,False,11
+452,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,490,,,,,,,False,11
+453,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,610,,,,,,,False,11
+454,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,611,,,,,,,False,11
+455,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,636,,,,,,,False,11
+456,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,654,,,,,,,False,11
+457,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,723,,,,,,,False,11
+458,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,776,,,,,,,False,11
+459,4d12830540e65481e680901a,Turtle Bay Exploration Park,"844 Sundial Bridge Dr, Redding, CA 96001",10031,Science Museum,Arts and Entertainment,58,8.9,54.0,110.0,10.0,0.9975797912569959,,False,12
+460,4f22006ae4b0085e4778f228,Redding Civic Auditorium,"700 Auditorium Dr, Redding, CA 96001",10037,Concert Hall,Arts and Entertainment,273,8.1,41.0,104.0,6.0,0.9800332778702163,,False,12
+461,4be35d2dd27a20a1cd12925b,Dutch Bros Coffee,"695 N Market St (at Arboretum Dr), Redding, CA 96003",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,970,8.1,33.0,19.0,6.0,0.9923612161548934,1.0,True,12
+462,5aad7fe52db4a91c2baaf80c,Mosaic,"826 Sundial Bridge Dr, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,146,6.7,17.0,19.0,4.0,0.9373770987747693,,False,12
+463,4c4de42cdb2c20a1629d9273,Thai Cafe,"820 Butte St, Redding, CA 96001",13352,Thai Restaurant,Dining and Drinking,693,7.0,15.0,10.0,7.0,0.9399485705642112,2.0,False,12
+464,51c67732498ed8402e1d0a7d,Sacramento River,"777 Auditorium Dr, Redding, CA 96001",16000,Landmarks and Outdoors,Landmarks and Outdoors,6,,,,,0.8987293904099228,,False,12
+465,60d8dc151dbe9e357f8ff1ab,Turtle Bay Museum,"844 Sundial Bridge Dr, Redding, CA 96001",10027,Museum,Arts and Entertainment,64,,,,,0.9485705642111633,,False,12
+466,5ab0513bda2e0005a1a22fd6,Sheraton Club,"820 Sundial Bridge Dr, Redding, CA 96001",13016,Lounge,Dining and Drinking,166,,,,,0.9311753138708213,3.0,False,12
+467,4bfab98ab182c9b62cba7a5a,The River Trail,"Redding, CA 96001",16019,Hiking Trail,Landmarks and Outdoors,198,,,,,0.935713205263954,,False,12
+468,5b7e64beca18ea002c94ef5b,Redding Civic Center,"700 Auditorium Dr, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,268,,,,,0.6099682347602481,,False,12
+469,51d70b15498ebdf67559751b,Sulphur Creek,"Redding, CA 96003",16043,River,Landmarks and Outdoors,285,,,,,0.9082589623355014,,False,12
+470,5d24e76cf4e9bd002389d06c,Mosaic Restaurant,"826 Sundial Bridge Dr, Redding, CA 96001",13003,Bar,Dining and Drinking,292,,,,,0.8823173498714264,3.0,False,12
+471,4d9f87aded24370442c4edba,Sacramento River Trail - Turtle Bay East Connector,"Redding, CA 96001",16019,Hiking Trail,Landmarks and Outdoors,513,,,,,0.9523521403721071,,False,12
+472,4b9c1d1bf964a520834b36e3,Viking Skate Country,"735 Auditorium Dr (Highway 44), Redding, CA 96001",18056,Skating Rink,Sports and Recreation,527,,,,,0.9655120254121918,,False,12
+473,4bacf079f964a520e51b3be3,McConnell's Arboretum & Botanical Gardens Nursery,"Market Street, Redding, CA 96003",16005,Botanical Garden,Landmarks and Outdoors,638,,,,,0.9909242172137347,,False,12
+474,a0f192fc898148c1f8cee944,Curves,"1890 Park Marina Dr, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,684,,,,,0.21683557706852216,,False,12
+475,52a1245f11d299c2202162b4,David's office At Turtle Bay,"1335 Arboretum Dr (Market Street), Redding, CA 96003",16017,Garden,Landmarks and Outdoors,727,,,,,0.5691272122220542,,False,12
+476,4f0f75bfe4b06563a6ea1201,Redding Dance Centre,"862 Butte St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,731,,,,,0.88072908788383,,False,12
+477,4d12e7b7058fa35dae922a9f,Shasta Athletic Club,"1988 Park Marina Dr, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,804,,,,,0.9733020723037362,,True,12
+478,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,962,,,,,0.9745121766752383,1.0,False,12
+479,4c7f1afe01df3704bb7ce5ac,Hilltop Point,"501 Hilltop Dr, Redding, CA 96003",16000,Landmarks and Outdoors,Landmarks and Outdoors,965,,,,,0.9852518529723189,,False,12
+480,538f6ff6498e102acb29fdb1,Paul Bunyan Forest Camp,"840 Sundial Bridge Dr, Redding, CA 96001",16037,Playground,Landmarks and Outdoors,1884,,,,,0.564286794736046,,False,12
+481,3350d5817e7c482665244a56,Redding Sportsman's Expo,"700 Auditorium Dr, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,288,,,,,,,False,12
+482,61ebd30c28534048707636d4,McConnell Arboretum,"840 Sundial Bridge Dr, Redding, CA 96001",16039,Urban Park,Landmarks and Outdoors,306,,,,,,,False,12
+483,cf83900246184465ac0c5628,Turtle Bay Exploration Play Area,"844 Sundial Bridge Dr, Redding, CA 96001",16037,Playground,Landmarks and Outdoors,306,,,,,,,False,12
+484,07a44a70e57a4d11bffeb787,Riverfront Park,"800 Sundial Bridge Dr, Redding, CA 96001",16032,Park,Landmarks and Outdoors,514,,,,,,,False,12
+485,43064c8f07ca440afb7a9b80,Extol,"737 Auditorium Dr, Redding, CA 96001",10006,Bowling Alley,Arts and Entertainment,526,,,,,,,False,12
+486,2fa4f3dc65a54695a18160ab,Kangaroo Kourts Fitness Center,"1988 Park Marina Dr, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,802,,,,,,,False,12
+487,32c7527d6cf34f47f043ac40,Redding Riverside Village,"901 N Market St, Redding, CA 96003",16008,Campground,Landmarks and Outdoors,929,,,,,,,False,12
+488,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,974,,,,,,,False,12
+489,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,302,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,13
+490,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,391,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,13
+491,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,394,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,13
+492,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,255,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,13
+493,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,570,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,13
+494,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,474,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,13
+495,5839cf23424f9379715e5abb,Final Draft Brewi,"1600 California St, Redding, CA 96001",13003,Bar,Dining and Drinking,108,6.7,16.0,56.0,6.0,0.9736045983966117,2.0,True,13
+496,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,392,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,13
+497,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,218,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,13
+498,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,590,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,13
+499,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,123,,,,,0.8829980335803963,2.0,False,13
+500,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,177,,,,,0.956738768718802,2.0,True,13
+501,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,208,,,,,0.9552261382544245,1.0,False,13
+502,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,239,,,,,0.9133262743911662,1.0,False,13
+503,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,251,,,,,0.9012252306761458,2.0,False,13
+504,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,251,,,,,0.7390712448948722,,False,13
+505,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,352,,,,,0.5251096657086674,,False,13
+506,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,471,,,,,0.9632430797156255,1.0,False,13
+507,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,573,,,,,0.9745121766752383,1.0,False,13
+508,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,596,,,,,0.9695204961427923,1.0,False,13
+509,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,684,,,,,0.673649977310543,1.0,False,13
+510,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,793,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,13
+511,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,852,,,,,0.30850098320980185,,False,13
+512,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,47,,,,,,,False,13
+513,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,83,,,,,,,False,13
+514,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,116,,,,,,,False,13
+515,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,144,,,,,,,False,13
+516,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,173,,,,,,,False,13
+517,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,213,,,,,,,False,13
+518,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,240,,,,,,,False,13
+519,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,255,,,,,,,False,13
+520,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,355,,,,,,,False,13
+521,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,462,,,,,,,False,13
+522,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,555,,,,,,,False,13
+523,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,560,,,,,,,False,13
+524,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,573,,,,,,,False,13
+525,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,624,,,,,,,False,13
+526,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,738,,,,,,,False,13
+527,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,751,,,,,,,False,13
+528,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,283,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,14
+529,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,56,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,14
+530,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,364,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,14
+531,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,304,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,14
+532,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,424,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,14
+533,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,322,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,14
+534,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,199,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,14
+535,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,361,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,14
+536,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,41,,,,,0.9133262743911662,1.0,False,14
+537,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,592,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,14
+538,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,117,,,,,0.9012252306761458,2.0,False,14
+539,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,165,,,,,0.8829980335803963,2.0,False,14
+540,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,173,,,,,0.5251096657086674,,False,14
+541,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,338,,,,,0.956738768718802,2.0,True,14
+542,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,342,,,,,0.7390712448948722,,False,14
+543,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,364,,,,,0.9552261382544245,1.0,False,14
+544,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,417,,,,,0.9745121766752383,1.0,False,14
+545,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,545,,,,,0.9632430797156255,1.0,False,14
+546,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,634,,,,,0.9695204961427923,1.0,False,14
+547,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,840,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,14
+548,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,790,,,,,0.673649977310543,1.0,False,14
+549,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,1014,,,,,0.30850098320980185,,False,14
+550,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,43,,,,,,,False,14
+551,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,91,,,,,,,False,14
+552,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,176,,,,,,,False,14
+553,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,234,,,,,,,False,14
+554,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,246,,,,,,,False,14
+555,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,259,,,,,,,False,14
+556,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,268,,,,,,,False,14
+557,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,273,,,,,,,False,14
+558,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,348,,,,,,,False,14
+559,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,408,,,,,,,False,14
+560,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,464,,,,,,,False,14
+561,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,470,,,,,,,False,14
+562,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,541,,,,,,,False,14
+563,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,555,,,,,,,False,14
+564,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,695,,,,,,,False,14
+565,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,922,,,,,,,False,14
+566,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,102,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,15
+567,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,111,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,15
+568,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,211,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,15
+569,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,544,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,15
+570,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,287,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,15
+571,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,199,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,15
+572,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,217,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,15
+573,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,501,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,15
+574,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,401,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,15
+575,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,155,,,,,0.5251096657086674,,False,15
+576,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,211,,,,,0.9133262743911662,1.0,False,15
+577,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,312,,,,,0.9012252306761458,2.0,False,15
+578,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,332,,,,,0.8829980335803963,2.0,False,15
+579,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,458,,,,,0.9695204961427923,1.0,False,15
+580,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,464,,,,,0.956738768718802,2.0,True,15
+581,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,495,,,,,0.9552261382544245,1.0,False,15
+582,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,509,,,,,0.7390712448948722,,False,15
+583,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,572,,,,,0.9745121766752383,1.0,False,15
+584,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,662,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,15
+585,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,726,,,,,0.9632430797156255,1.0,False,15
+586,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,932,,,,,0.30850098320980185,,False,15
+587,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,959,,,,,0.673649977310543,1.0,False,15
+588,515efc95793e4d715091c7f9,North Valley Art League,"48 Quartz Hill Rd, Redding, CA 96003",10004,Art Gallery,Arts and Entertainment,977,,,,,0.5428074421418847,,False,15
+589,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,991,,,,,0.846089850249584,,False,15
+590,a714d0b3b485415dc040500a,Halloween Haunt,"44 Quartz Hill Rd, Redding, CA 96003",10000,Arts and Entertainment,Arts and Entertainment,1081,,,,,0.15859930418998638,,False,15
+591,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,155,,,,,,,False,15
+592,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,217,,,,,,,False,15
+593,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,270,,,,,,,False,15
+594,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,274,,,,,,,False,15
+595,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,275,,,,,,,False,15
+596,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,281,,,,,,,False,15
+597,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,329,,,,,,,False,15
+598,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,343,,,,,,,False,15
+599,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,371,,,,,,,False,15
+600,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,400,,,,,,,False,15
+601,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,406,,,,,,,False,15
+602,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,487,,,,,,,False,15
+603,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,516,,,,,,,False,15
+604,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,540,,,,,,,False,15
+605,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,878,,,,,,,False,15
+606,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,412,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,16
+607,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,533,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,16
+608,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,393,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,16
+609,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,443,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,16
+610,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,602,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,16
+611,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,530,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,16
+612,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,533,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,16
+613,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,406,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,16
+614,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,428,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,16
+615,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,356,,,,,0.956738768718802,2.0,True,16
+616,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,374,,,,,0.8829980335803963,2.0,False,16
+617,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,384,,,,,0.9552261382544245,1.0,False,16
+618,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,395,,,,,0.9695204961427923,1.0,False,16
+619,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,431,,,,,0.9133262743911662,1.0,False,16
+620,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,473,,,,,0.7390712448948722,,False,16
+621,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,475,,,,,0.5251096657086674,,False,16
+622,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,482,,,,,0.9012252306761458,2.0,False,16
+623,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,572,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,16
+624,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,623,,,,,0.30850098320980185,,False,16
+625,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,680,,,,,0.9632430797156255,1.0,False,16
+626,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,803,,,,,0.9745121766752383,1.0,False,16
+627,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,851,,,,,0.673649977310543,1.0,False,16
+628,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,915,,,,,0.846089850249584,,False,16
+629,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,238,,,,,,,False,16
+630,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,283,,,,,,,False,16
+631,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,290,,,,,,,False,16
+632,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,327,,,,,,,False,16
+633,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,378,,,,,,,False,16
+634,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,418,,,,,,,False,16
+635,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,434,,,,,,,False,16
+636,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,452,,,,,,,False,16
+637,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,476,,,,,,,False,16
+638,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,476,,,,,,,False,16
+639,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,514,,,,,,,False,16
+640,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,516,,,,,,,False,16
+641,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,599,,,,,,,False,16
+642,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,758,,,,,,,False,16
+643,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,825,,,,,,,False,16
+644,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,875,,,,,,,False,16
+645,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,474,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,17
+646,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,421,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,17
+647,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,464,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,17
+648,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,423,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,17
+649,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,666,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,17
+650,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,581,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,17
+651,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,284,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,17
+652,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,543,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,17
+653,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,552,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,17
+654,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,235,,,,,0.956738768718802,2.0,True,17
+655,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,260,,,,,0.9552261382544245,1.0,False,17
+656,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,297,,,,,0.8829980335803963,2.0,False,17
+657,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,359,,,,,0.7390712448948722,,False,17
+658,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,408,,,,,0.9133262743911662,1.0,False,17
+659,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,432,,,,,0.9012252306761458,2.0,False,17
+660,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,492,,,,,0.5251096657086674,,False,17
+661,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,524,,,,,0.9695204961427923,1.0,False,17
+662,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,557,,,,,0.9632430797156255,1.0,False,17
+663,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,700,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,17
+664,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,675,,,,,0.30850098320980185,,False,17
+665,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,721,,,,,0.673649977310543,1.0,False,17
+666,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,754,,,,,0.9745121766752383,1.0,False,17
+667,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,147,,,,,,,False,17
+668,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,154,,,,,,,False,17
+669,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,186,,,,,,,False,17
+670,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,219,,,,,,,False,17
+671,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,323,,,,,,,False,17
+672,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,324,,,,,,,False,17
+673,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,361,,,,,,,False,17
+674,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,410,,,,,,,False,17
+675,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,494,,,,,,,False,17
+676,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,568,,,,,,,False,17
+677,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,605,,,,,,,False,17
+678,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,608,,,,,,,False,17
+679,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,612,,,,,,,False,17
+680,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,652,,,,,,,False,17
+681,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,700,,,,,,,False,17
+682,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,900,,,,,,,False,17
+683,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,950,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,18
+684,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,995,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,18
+685,55f24bb7498e520079e15190,Anthony's Mediterranean Cuisine,"2475 Eureka Way, Redding, CA 96001",13188,Souvlaki Shop,Dining and Drinking,823,8.1,16.0,3.0,3.0,0.9590077144153684,,False,18
+686,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,922,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,18
+687,5839cf23424f9379715e5abb,Final Draft Brewi,"1600 California St, Redding, CA 96001",13003,Bar,Dining and Drinking,808,6.7,16.0,56.0,6.0,0.9736045983966117,2.0,True,18
+688,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,841,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,18
+689,4c43c3bf2d3ec9b61d0f2eae,Subway,"1950 Eureka Way, Redding, CA 96001",13039,Deli,Dining and Drinking,702,6.3,5.0,5.0,1.0,0.9689154439570413,1.0,False,18
+690,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,91,,,,,0.30850098320980185,,False,18
+691,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,756,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,18
+692,555e65b5498eae86541b3d63,Benton Dog Park,"1700 Airpark Dr (Airpark and Placer), Redding, CA 96001",16033,Dog Park,Landmarks and Outdoors,522,,,,,0.9870670095295719,,False,18
+693,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,649,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,18
+694,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,648,,,,,0.9695204961427923,1.0,False,18
+695,1360a5af22e24310517476e1,Crossfit,"2410 Sonoma St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,778,,,,,0.10981697171381032,,False,18
+696,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,803,,,,,0.956738768718802,2.0,True,18
+697,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,815,,,,,0.9552261382544245,1.0,False,18
+698,65a9c9ede0724622a03573df,Pourboys Tapyard,"2040 Waldon St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,837,,,,,0.959839661170776,,False,18
+699,4156ebd9dcc081f6360fccf7,David Marr Theatre,"2200 Eureka Way, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,856,,,,,0.846089850249584,,False,18
+700,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,910,,,,,0.8829980335803963,2.0,False,18
+701,5b0d9a868c812a002cca38e9,The Proper Hop,"1250 California St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,932,,,,,0.46793223415519586,2.0,False,18
+702,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,933,,,,,0.7390712448948722,,False,18
+703,530c53f4f0ce400e31894a7a,Dreamweaver Dance Theatre,"1522 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,938,,,,,0.7391468764180911,,False,18
+704,38a226d2f0174ec092f0b3a3,Eaton House Museum & Office,"1939 Butte St, Redding, CA 96001",10028,Art Museum,Arts and Entertainment,375,,,,,,,False,18
+705,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,676,,,,,,,False,18
+706,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,760,,,,,,,False,18
+707,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,770,,,,,,,False,18
+708,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,791,,,,,,,False,18
+709,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,816,,,,,,,False,18
+710,7a1613a08bdb43e51a816a2b,Celebration Family Fitness Center Of Redding,"1950 California St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,818,,,,,,,False,18
+711,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,843,,,,,,,False,18
+712,a5285ceba9f14334d5029893,Smallshots,"2536 Old Eureka Way, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,889,,,,,,,False,18
+713,a836a4df42ce4d4dadf39053,HDR Imaging,"1845 Mesa St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,898,,,,,,,False,18
+714,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,928,,,,,,,False,18
+715,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,932,,,,,,,False,18
+716,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,935,,,,,,,False,18
+717,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,983,,,,,,,False,18
+718,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,984,,,,,,,False,18
+719,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,529,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,19
+720,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,909,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,19
+721,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,902,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,19
+722,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,786,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,19
+723,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,407,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,19
+724,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,932,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,19
+725,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,966,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,19
+726,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,391,,,,,0.9552261382544245,1.0,False,19
+727,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,407,,,,,0.956738768718802,2.0,True,19
+728,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,486,,,,,0.7390712448948722,,False,19
+729,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,503,,,,,0.673649977310543,1.0,False,19
+730,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,518,,,,,0.9632430797156255,1.0,False,19
+731,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,588,,,,,0.8829980335803963,2.0,False,19
+732,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,725,,,,,0.30850098320980185,,False,19
+733,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,741,,,,,0.9012252306761458,2.0,False,19
+734,4e28da912271752a4599719b,Redding Girls' Softball Park,"Redding, CA 96001",10051,Stadium,Arts and Entertainment,758,,,,,0.8174255029496295,,False,19
+735,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,770,,,,,0.9133262743911662,1.0,False,19
+736,4c006065ad15a593eed48d73,Tiger Field,"1000 Cypress Ave (Market Street), Redding, CA 96001",10051,Stadium,Arts and Entertainment,821,,,,,0.9155952200877325,,False,19
+737,1360a5af22e24310517476e1,Crossfit,"2410 Sonoma St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,864,,,,,0.10981697171381032,,False,19
+738,4e7f948061afedef5c45f805,Front and Center Dance Studio,"926 Cypress Ave, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,876,,,,,0.1645741945242777,,False,19
+739,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,893,,,,,0.2177431553471487,,False,19
+740,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,893,,,,,0.5251096657086674,,False,19
+741,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,910,,,,,0.9695204961427923,1.0,False,19
+742,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,213,,,,,,,False,19
+743,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,328,,,,,,,False,19
+744,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,465,,,,,,,False,19
+745,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,474,,,,,,,False,19
+746,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,481,,,,,,,False,19
+747,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,494,,,,,,,False,19
+748,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,552,,,,,,,False,19
+749,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,583,,,,,,,False,19
+750,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,655,,,,,,,False,19
+751,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,769,,,,,,,False,19
+752,898ebebb75f0f1a08fc64815,Canelo's,"2605 S Market St, Redding, CA 96001",13065,Restaurant,Dining and Drinking,811,,,,,,,False,19
+753,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,896,,,,,,,False,19
+754,ec187df965fd4e6c697f5c64,Little Sprouts Urban Farm,"1022 State St, Redding, CA 96001",16014,Farm,Landmarks and Outdoors,971,,,,,,,False,19
+755,d1c9f6f6be2b44e7fd22fe51,La Tour Demonstration Forest,"875 Cypress Ave, Redding, CA 96001",16032,Park,Landmarks and Outdoors,991,,,,,,,False,19
+756,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,998,,,,,,,False,19
+757,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,241,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,20
+758,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,411,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,20
+759,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,215,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,20
+760,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,422,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,20
+761,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,576,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,20
+762,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,476,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,20
+763,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,365,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,20
+764,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,198,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,20
+765,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,41,,,,,0.8829980335803963,2.0,False,20
+766,4c2a899d8ef52d7fa10e30ba,Carl's Jr.,"1800 Eureka Way, Redding, CA 96001",13145,Fast Food Restaurant,Dining and Drinking,651,6.2,2.0,13.0,0.0,0.9757222810467403,1.0,True,20
+767,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,172,,,,,0.956738768718802,2.0,True,20
+768,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,183,,,,,0.9012252306761458,2.0,False,20
+769,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,198,,,,,0.9552261382544245,1.0,False,20
+770,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,199,,,,,0.9133262743911662,1.0,False,20
+771,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,199,,,,,0.7390712448948722,,False,20
+772,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,336,,,,,0.5251096657086674,,False,20
+773,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,419,,,,,0.9632430797156255,1.0,False,20
+774,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,498,,,,,0.9745121766752383,1.0,False,20
+775,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,648,,,,,0.673649977310543,1.0,False,20
+776,64ca7eb608d11421f11e53ca,Starbucks,"1893 Eureka Way, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,666,,,,,0.9695204961427923,1.0,False,20
+777,4b89b364f964a5200a4c32e3,Burger King,"2055 Eureka Way, Redding, CA 96001",13031,Burger Joint,Dining and Drinking,866,5.6,6.0,17.0,1.0,0.9755710180003025,1.0,True,20
+778,51105e64e4b0cb0bd885a8c9,Magnolia Park,"1614 Magnolia Ave, Redding, CA 96001",16026,Monument,Landmarks and Outdoors,932,,,,,0.30850098320980185,,False,20
+779,2df8e1abe2fa4bb302baf999,The Bow Rack,"928 Cypress Ave, Redding, CA 96001",17117,Sporting Goods Retail,Retail,1000,,,,,0.2177431553471487,,False,20
+780,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,83,,,,,,,False,20
+781,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,99,,,,,,,False,20
+782,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,102,,,,,,,False,20
+783,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,107,,,,,,,False,20
+784,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,111,,,,,,,False,20
+785,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,198,,,,,,,False,20
+786,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,205,,,,,,,False,20
+787,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,253,,,,,,,False,20
+788,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,339,,,,,,,False,20
+789,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,433,,,,,,,False,20
+790,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,572,,,,,,,False,20
+791,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,586,,,,,,,False,20
+792,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,591,,,,,,,False,20
+793,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,624,,,,,,,False,20
+794,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,718,,,,,,,False,20
+795,0ed3b09ff6f0492f3a6b5b24,Local's,"2200 Court St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,757,,,,,,,False,20
+796,4b5138a2f964a520cc4727e3,Market Street Steakhouse,"1777 Market St, Redding, CA 96001",13383,Steakhouse,Dining and Drinking,568,8.7,14.0,12.0,6.0,0.9662683406443806,3.0,False,21
+797,581ccd7f0d63b178d22e9e54,Theory Collaborative,"1250 California St, Redding, CA 96001",13034,Café,Dining and Drinking,647,8.9,35.0,34.0,4.0,0.978369384359401,1.0,True,21
+798,4d12830540e65481e680901a,Turtle Bay Exploration Park,"844 Sundial Bridge Dr, Redding, CA 96001",10031,Science Museum,Arts and Entertainment,828,8.9,54.0,110.0,10.0,0.9975797912569959,,False,21
+799,5a110c7f0fe7a07167d2f62f,Taste & See Creamery,"1419 Market St, Redding, CA 96001",13046,Ice Cream Parlor,Dining and Drinking,432,8.0,9.0,11.0,1.0,0.9745878081984571,1.0,False,21
+800,4c4bf3589c8d2d7f72f4b76b,Club 501,"1244 California St, Redding, CA 96001",13011,Gay Bar,Dining and Drinking,681,8.3,12.0,6.0,4.0,0.9054605959764029,2.0,False,21
+801,4f22006ae4b0085e4778f228,Redding Civic Auditorium,"700 Auditorium Dr, Redding, CA 96001",10037,Concert Hall,Arts and Entertainment,612,8.1,41.0,104.0,6.0,0.9800332778702163,,False,21
+802,4bfd76e4bf6576b08551adb8,Wienerschnitzel,"1120 Market St, Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,649,7.6,12.0,44.0,1.0,0.9872939040992286,1.0,False,21
+803,5021e2a9e4b009f5a0a2ff40,Dutch Bros Coffee,"1200 Market St (Eureka Way), Redding, CA 96001",13032,"Cafe, Coffee, and Tea House",Dining and Drinking,584,7.2,10.0,22.0,3.0,0.9900166389351082,1.0,True,21
+804,4c8ba29052a98cfa7caf37e9,Heavenly Donuts,"1313 Shasta St, Redding, CA 96001",13001,Bagel Shop,Dining and Drinking,420,6.9,10.0,19.0,2.0,0.9730751777340796,1.0,False,21
+805,4b70bed9f964a520b32c2de3,Jack's Grill,"1743 California St (at Placer St), Redding, CA 96001",13383,Steakhouse,Dining and Drinking,684,6.7,24.0,10.0,8.0,0.9451671456663138,4.0,False,21
+806,5aad7fe52db4a91c2baaf80c,Mosaic,"826 Sundial Bridge Dr, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,833,6.7,17.0,19.0,4.0,0.9373770987747693,,False,21
+807,58b9c69fd772f97a40339388,Caffé Pagato,"1031 Butte St, Redding, CA 96001",13034,Café,Dining and Drinking,78,,,,,0.9745121766752383,1.0,False,21
+808,5dba05a6db21db00086bd90f,Westside Wines & Hops,"1321 Butte St, Redding, CA 96001",13006,Beer Bar,Dining and Drinking,392,,,,,0.9012252306761458,2.0,False,21
+809,4c17df644ff90f47f1910d49,Sandwichery,"1341 Tehama St (btwn Market & Pine), Redding, CA 96001",13058,Hot Dog Joint,Dining and Drinking,442,,,,,0.9133262743911662,1.0,False,21
+810,4ba2846ef964a5203b0038e3,Shasta County Arts Council,"1313 Market St (at Shasta St), Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,476,,,,,0.5251096657086674,,False,21
+811,4ed18ea329c223f92a522f3a,The Grape Escape,"1747 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,537,,,,,0.8829980335803963,2.0,False,21
+812,5295ee855f224c12f958ef11,The Redding Arts Project,"1726 Market St, Redding, CA 96001",18025,Dance Studio,Sports and Recreation,603,,,,,0.7390712448948722,,False,21
+813,5e35b39d927f370008489acd,Roots Juice Bar,"1950 Pine St, Redding, CA 96001",13000,Dining and Drinking,Dining and Drinking,672,,,,,0.9632430797156255,1.0,False,21
+814,562ec74f498eb100b82ff216,The Dip,"1730 California St (Placer), Redding, CA 96001",10003,Arcade,Arts and Entertainment,695,,,,,0.956738768718802,2.0,True,21
+815,5a7b4ea59411f27a1d092b5a,Fratelli's Pizza Parlor,"1774 California St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,702,,,,,0.9552261382544245,1.0,False,21
+816,5ab0513bda2e0005a1a22fd6,Sheraton Club,"820 Sundial Bridge Dr, Redding, CA 96001",13016,Lounge,Dining and Drinking,826,,,,,0.9311753138708213,3.0,False,21
+817,e0cc2da09c054ca134a7a380,Pasta Pronto,"2151 Market St, Redding, CA 96001",13064,Pizzeria,Dining and Drinking,911,,,,,0.673649977310543,1.0,False,21
+818,4bacf079f964a520e51b3be3,McConnell's Arboretum & Botanical Gardens Nursery,"Market Street, Redding, CA 96003",16005,Botanical Garden,Landmarks and Outdoors,923,,,,,0.9909242172137347,,False,21
+819,4d12e7b7058fa35dae922a9f,Shasta Athletic Club,"1988 Park Marina Dr, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,929,,,,,0.9733020723037362,,True,21
+820,3fafb4f24ea54fa28cadeac4,From The Hearth Bakery & Cafe,"1279 Pine St, Redding, CA 96001",13002,Bakery,Dining and Drinking,402,,,,,,,False,21
+821,12b2783d2ca142902bb271d2,Trina's Boot Camp For Women,"1441 Market St, Redding, CA 96001",18000,Sports and Recreation,Sports and Recreation,438,,,,,,,False,21
+822,83a89ed62862462db11b0f58,Labor of Love A.R.T.,"1075 Trinity St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,460,,,,,,,False,21
+823,c7f9094090fc4191b2501a8e,Axiom Repertory Theatre,"1313 Market St, Redding, CA 96001",10000,Arts and Entertainment,Arts and Entertainment,477,,,,,,,False,21
+824,1a48c3e069844bf74a19d4f8,Redding Swim Team,"1538 Market St, Redding, CA 96001",18076,Swim School,Sports and Recreation,500,,,,,,,False,21
+825,dd3ffdcffaf74254b0ee321d,Sizzle's Kitchen,"1670 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,546,,,,,,,False,21
+826,17ac43251f274c0ebd3bc0fb,Redding City Musical Theater,"1726 Market St, Redding, CA 96001",10039,Music Venue,Arts and Entertainment,609,,,,,,,False,21
+827,a9384896801b49aadf245884,North State Studios,"1690 California St, Redding, CA 96001",10004,Art Gallery,Arts and Entertainment,652,,,,,,,False,21
+828,e356e0de7ed6474420effe32,Park,"1552 Placer St, Redding, CA 96001",16032,Park,Landmarks and Outdoors,664,,,,,,,False,21
+829,058f97f2691a419394efc225,Mike Bogue's Guide Service,"Redding, CA",17121,Fishing Store,Retail,682,,,,,,,False,21
+830,2757e5bd68d84a95a323b706,Evergreen - Coffee Shop & Boutique Hotel,"2085 Pine St, Redding, CA 96001",13035,Coffee Shop,Dining and Drinking,762,,,,,,,False,21
+831,61ebd30c28534048707636d4,McConnell Arboretum,"840 Sundial Bridge Dr, Redding, CA 96001",16039,Urban Park,Landmarks and Outdoors,781,,,,,,,False,21
+832,3ed21012e3034f59cf704050,Monster Camp,"1101 Center St, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,789,,,,,,,False,21
+833,d2c8369aa5d04a23c444f306,Team Quest MMA & Fitness,"1101 Center St, Redding, CA 96001",18036,Martial Arts Dojo,Sports and Recreation,796,,,,,,,False,21
+834,8c3b3e63d53d4ff9335e8f87,Align Pain Management,"1615 Placer St, Redding, CA 96001",18038,Personal Trainer,Sports and Recreation,811,,,,,,,False,21
+835,2fa4f3dc65a54695a18160ab,Kangaroo Kourts Fitness Center,"1988 Park Marina Dr, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,922,,,,,,,False,21
+836,a448d1de61cf40e780d4b7dc,Xtreme Vitality Fitness,"1740 Eureka Way, Redding, CA 96001",18021,Gym and Studio,Sports and Recreation,931,,,,,,,False,21

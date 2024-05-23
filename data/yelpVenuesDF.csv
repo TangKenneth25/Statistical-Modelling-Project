@@ -1,0 +1,1062 @@
+,YelpID,venueName,displayAddress,categoryTitle,distance,rating,reviewCount,price,stationIndex,totalVenues
+0,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,65.81092730022333,4.4,62,,0,102
+1,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,142.2356948699467,4.7,20,2.0,0,102
+2,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,164.6157112371116,4.7,29,,0,102
+3,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,185.53343521639255,4.2,200,2.0,0,102
+4,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,189.25959975710785,3.6,241,3.0,0,102
+5,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,219.20328958454357,3.6,41,2.0,0,102
+6,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,228.1590740561135,3.6,46,2.0,0,102
+7,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,236.12448709384915,4.2,121,2.0,0,102
+8,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,240.64537273719475,5.0,1,,0,102
+9,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,240.64537273719475,5.0,2,,0,102
+10,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,241.92033741688513,4.8,4,,0,102
+11,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,257.381078189421,5.0,1,,0,102
+12,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,278.3399807795986,4.5,45,,0,102
+13,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,289.95853971668674,4.4,50,2.0,0,102
+14,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,315.54909107097177,5.0,6,2.0,0,102
+15,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,344.25259540946996,4.1,752,2.0,0,102
+16,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,360.4728393404011,4.5,149,2.0,0,102
+17,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,360.9520787126915,4.2,81,2.0,0,102
+18,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,363.0452689509139,5.0,1,,0,102
+19,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,376.30054919369337,3.8,163,2.0,0,102
+20,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,379.59921929577206,4.5,13,,0,102
+21,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,399.86114931058006,5.0,1,,0,102
+22,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,419.2684941345901,2.2,22,4.0,0,102
+23,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,448.5303596255236,5.0,2,,0,102
+24,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,475.2789348916757,5.0,7,,0,102
+25,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,485.0291578348676,1.0,1,,0,102
+26,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,487.6015931400294,4.9,17,,0,102
+27,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,488.8496482346537,5.0,1,,0,102
+28,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,490.29192956760244,5.0,1,,0,102
+29,G7zVEBlKtFRuKZ2C_fW4xA,Starbucks,"['990 Cypress Ave', 'Redding, CA 96001']",coffee,503.3981192720721,3.7,3,,0,102
+30,_giv_7ceDTOBePvq1JBM2Q,Safeway,"['2275 Pine St', 'Redding, CA 96001']",grocery,504.3520111871809,2.8,38,2.0,0,102
+31,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,520.8220021699995,4.6,23,,0,102
+32,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,539.7177637473812,1.0,1,,0,102
+33,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,541.7535063865544,5.0,1,,0,102
+34,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,549.431852532411,4.9,37,2.0,0,102
+35,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,550.4142110409226,4.0,6,,0,102
+36,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,552.1656304487061,2.5,2,,0,102
+37,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,570.1550174283404,4.8,359,2.0,0,102
+38,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,570.8009404518572,4.0,114,2.0,0,102
+39,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,584.2886815356215,4.0,1,,0,102
+40,MB40BrcSgTIF57ILf5PAPQ,The Bow Rack,"['928 Cypress Ave', 'Redding, CA 96001']",sportgoods,598.501295203982,4.2,11,3.0,0,102
+41,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,633.9783798641482,4.6,94,1.0,0,102
+42,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,647.9879112448857,3.7,12,1.0,0,102
+43,u6Pvz3RgGPWonG-w5SPW6Q,Tiger Field,"['1000 W Cypress Ave', 'Redding, CA 96001']",stadiumsarenas,652.4370141819234,4.0,1,,0,102
+44,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,717.6725190638462,3.3,398,3.0,0,102
+45,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,717.9867492692438,5.0,2,,0,102
+46,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,727.2503734383897,2.9,142,1.0,0,102
+47,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,739.0692702878492,4.3,23,2.0,0,102
+48,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,761.8916767919591,5.0,3,,0,102
+49,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,761.8916767919591,5.0,5,1.0,0,102
+50,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,45.438903755239885,5.0,1,,1,95
+51,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,54.747565166135054,5.0,2,,1,95
+52,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,60.36817774024646,4.2,81,2.0,1,95
+53,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,68.06188670681036,5.0,7,,1,95
+54,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,75.15918095604528,5.0,1,,1,95
+55,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,82.63063994878668,5.0,1,,1,95
+56,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,83.96964974636145,5.0,1,,1,95
+57,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,99.72579820253068,5.0,6,2.0,1,95
+58,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,107.10451445304848,4.9,17,,1,95
+59,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,116.59157874926665,4.6,23,,1,95
+60,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,131.89174020840872,1.0,1,,1,95
+61,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,140.8684328181825,4.0,6,,1,95
+62,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,142.52465826576548,5.0,1,,1,95
+63,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,156.8457036411492,4.9,37,2.0,1,95
+64,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,157.00095123840248,1.0,1,,1,95
+65,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,162.87660492863435,4.5,45,,1,95
+66,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,163.06075281688666,4.0,114,2.0,1,95
+67,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,163.6859277444795,4.8,359,2.0,1,95
+68,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,177.93478069929645,4.0,1,,1,95
+69,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,180.34477513986772,4.1,752,2.0,1,95
+70,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,189.15868974098416,3.6,46,2.0,1,95
+71,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,190.6797989589803,3.6,41,2.0,1,95
+72,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,221.42022783572278,3.6,241,3.0,1,95
+73,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,239.33446543009327,4.4,50,2.0,1,95
+74,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,240.706044052733,3.7,12,1.0,1,95
+75,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,248.51838393902102,4.2,121,2.0,1,95
+76,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,307.2401867279384,4.7,20,2.0,1,95
+77,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,308.6765267982839,5.0,2,,1,95
+78,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,308.8227724545878,3.3,398,3.0,1,95
+79,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,322.9552281509576,2.9,142,1.0,1,95
+80,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,330.7200709686628,4.5,13,,1,95
+81,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,352.1025318920897,5.0,3,,1,95
+82,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,352.1025318920897,5.0,5,1.0,1,95
+83,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,352.1025318920897,5.0,4,,1,95
+84,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,352.1025318920897,5.0,3,,1,95
+85,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,386.2007263768675,5.0,1,,1,95
+86,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,398.18186321629133,4.3,476,2.0,1,95
+87,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,404.64083297127615,4.4,62,,1,95
+88,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,415.46218018490885,4.5,262,2.0,1,95
+89,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,417.6991010975233,4.4,7,,1,95
+90,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,418.90485317971047,4.6,94,1.0,1,95
+91,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,429.6721125097379,3.0,1,,1,95
+92,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,433.694716881462,4.8,4,,1,95
+93,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,454.78614487725275,3.9,30,,1,95
+94,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,460.6867737679896,4.0,1,,1,95
+95,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,462.35846054486984,4.2,38,1.0,1,95
+96,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,491.41128233411246,4.2,748,2.0,1,95
+97,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,508.43616286771555,2.5,2,,1,95
+98,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,510.8269877828784,3.7,3,2.0,1,95
+99,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,513.5166020173814,4.6,12,,1,95
+100,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,37.89851036985394,5.0,1,,2,94
+101,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,38.58587628935474,5.0,1,,2,94
+102,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,39.03952577811395,1.0,1,,2,94
+103,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,41.070580470559754,5.0,7,,2,94
+104,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,46.2721433353414,4.0,6,,2,94
+105,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,51.292444637966746,4.6,23,,2,94
+106,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,63.03534510822397,5.0,1,,2,94
+107,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,69.38560865933447,4.0,114,2.0,2,94
+108,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,71.3379170712639,4.8,359,2.0,2,94
+109,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,74.81236106490826,4.9,17,,2,94
+110,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,75.639627376335,5.0,2,,2,94
+111,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,83.38953802024706,4.9,37,2.0,2,94
+112,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,93.52870778862155,4.0,1,,2,94
+113,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,118.86881705419353,5.0,1,,2,94
+114,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,146.64354287453818,3.7,12,1.0,2,94
+115,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,150.6517333145696,4.2,81,2.0,2,94
+116,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,158.75273577297853,5.0,1,,2,94
+117,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,162.5554076188991,1.0,1,,2,94
+118,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,193.46278240234582,5.0,6,2.0,2,94
+119,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,214.0250253312981,5.0,2,,2,94
+120,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,216.79489908273484,3.3,398,3.0,2,94
+121,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,229.8478647283154,2.9,142,1.0,2,94
+122,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,250.99359355330404,4.1,752,2.0,2,94
+123,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,252.57198104264754,4.5,45,,2,94
+124,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,257.8506017820965,5.0,3,,2,94
+125,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,257.8506017820965,5.0,5,1.0,2,94
+126,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,257.8506017820965,5.0,4,,2,94
+127,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,257.8506017820965,5.0,3,,2,94
+128,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,283.41559812491323,3.6,46,2.0,2,94
+129,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,284.9393376566059,3.6,41,2.0,2,94
+130,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,291.5475842646705,5.0,1,,2,94
+131,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,315.3090985318832,3.6,241,3.0,2,94
+132,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,318.8334524921296,4.4,50,2.0,2,94
+133,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,323.2994998807293,4.3,476,2.0,2,94
+134,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,331.61873110959766,4.5,262,2.0,2,94
+135,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,334.7653543475382,4.4,7,,2,94
+136,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,336.19337986848126,4.2,121,2.0,2,94
+137,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,346.68509122543037,3.0,1,,2,94
+138,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,360.1177171113658,3.9,30,,2,94
+139,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,367.1999080531672,4.0,1,,2,94
+140,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,368.8285496346884,4.2,38,1.0,2,94
+141,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,392.53708124867387,4.5,13,,2,94
+142,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,396.9253902351432,4.7,20,2.0,2,94
+143,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,404.5647605270792,4.6,94,1.0,2,94
+144,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,418.5357708405992,3.7,3,2.0,2,94
+145,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,420.1222558721315,4.6,12,,2,94
+146,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,427.7467664877937,4.2,748,2.0,2,94
+147,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,496.8289798398956,4.4,62,,2,94
+148,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,519.3172240462335,4.8,4,,2,94
+149,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,523.203967187654,1.8,29,1.0,2,94
+150,c7dTqEzX2DsjkpjvHAd1_Q,Lake Redding Park,"['2275 Benton Dr', 'Redding, CA 96003']",parks,92.9056598153795,5.0,1,,3,48
+151,yw0bvqzsx9ZNkb1RpLvkYg,Lake Redding Golf Course,"['1795 Benton Dr', 'Redding, CA 96003']",golf,255.1381772517877,4.6,9,,3,48
+152,-HRpHaI8q-jkrFTurjUjZQ,North Valley Art League,"['48 Quartz Hill Rd', 'Redding, CA 96003']",galleries,537.1188297936163,5.0,2,,3,48
+153,nNjOIez35c7PR8kNZI8dQA,Redding Aquatic Center,"['44 Quartz Hill Rd', 'Redding, CA 96003']",swimmingpools,672.5079880825468,3.1,17,,3,48
+154,oIYfRuK27IN8gcSX7GdNmA,Jump River Park,"['56 Quartz Hill Dr', 'Redding, CA 96003']",playgrounds,753.1902372117481,4.8,4,,3,48
+155,f1gw12SubXPHI8hE3AS9GQ,Calzone Life,"['2110 Eureka Way', 'Redding, CA 96001']",fooddeliveryservices,891.4945778545443,4.0,5,,3,48
+156,t0QlYlwad-1vYn7V62Ol2A,Boba Tea & Coffee,"['2110 Eureka Way', 'Redding, CA 96001']",bubbletea,891.5618020168838,4.8,5,,3,48
+157,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,902.5345981893241,1.0,1,,3,48
+158,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,902.5345981893241,2.9,42,,3,48
+159,gmKMRQtdGIVC2zxslYX2Bg,Valero,"['2026 Eureka Way', 'Redding, CA 96001']",servicestations,917.1367684153943,1.6,14,1.0,3,48
+160,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,954.7751275686636,4.4,163,,3,48
+161,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,964.6485410651451,5.0,1,,3,48
+162,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,967.4447326145884,3.6,7,2.0,3,48
+163,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,970.5558549903383,1.7,12,1.0,3,48
+164,VKL8oT0tSEMpXOGgR3-nvw,Caldwell Park,"['3 Quartz Hill Rd', 'Redding, CA 96003']",parks,980.5213896916234,3.7,10,,3,48
+165,ISLA6_zQ5sLW4gMV5ppB2Q,Old Shasta Coffee Company,"['2275 Eureka Way', 'Redding, CA 96001']",coffee,1032.7941092090903,4.9,60,,3,48
+166,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,1089.083399922537,3.7,3,2.0,3,48
+167,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,1095.7834549683862,4.6,12,,3,48
+168,EKUilYPLNDyTGoG_TjXaww,Phat Straw,"['2475 Eureka Way', 'Redding, CA 96001']",coffee,1114.6575905115312,4.5,26,,3,48
+169,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,1145.1347919153902,4.2,38,1.0,3,48
+170,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,1146.2665542168547,4.0,1,,3,48
+171,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,1155.253037529219,3.0,1,,3,48
+172,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,1167.1941405828748,4.4,7,,3,48
+173,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,1169.1191064001991,4.5,262,2.0,3,48
+174,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,1177.956740427576,3.9,30,,3,48
+175,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,1235.602883774557,5.0,1,,3,48
+176,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,1255.94628213749,5.0,3,,3,48
+177,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,1255.94628213749,5.0,5,1.0,3,48
+178,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,1255.94628213749,5.0,4,,3,48
+179,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,1255.94628213749,5.0,3,,3,48
+180,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,1283.9494052990483,3.3,398,3.0,3,48
+181,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,1303.9636329903756,5.0,2,,3,48
+182,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,1322.0479129161042,2.9,142,1.0,3,48
+183,2rfoMzT8Oih0ZgseNc3b3A,North Country Raft Rental,"['Sundial Bridge Drive At Turtle Bay', 'Redding, CA 96001']",rafting,3666.610206780087,3.9,15,,3,48
+184,jqBMs21cOwigezF5QcAjww,Pedego Electric Bikes Redding,"['1374 Hilltop Dr', 'Redding, CA 96003']",bikes,3721.809273028829,5.0,10,,3,48
+185,rYgZ1IIkY086M1qoASY_rw,Jeff Goodwin's Guide Service,"['2857 Foxglove Ln', 'Redding, CA 96001']",tours,3984.7189627450475,5.0,6,,3,48
+186,aGsmBTotduZqcMUmfR6GTw,2 Guys and A Grill,"['1120 Churn Creek Rd', 'Redding, CA 96003']",foodtrucks,4177.515337925604,4.5,94,,3,48
+187,9HV74xadY5uGVK0dZAaodA,Action Sports Rentals ,"['915 Wall St', 'Unit 1', 'Redding, CA 96002']",paddleboarding,4703.36474454088,4.2,19,,3,48
+188,I6q2bV3vgXnmpSfttevwNg,Rico's Tacos,"['Redding, CA 96001']",foodtrucks,4865.713067824364,4.0,1,,3,48
+189,g3Ht1PP2raZ3Os262uOCMQ,What The Truck,"['Redding, CA 96001']",foodtrucks,7602.327836526817,5.0,7,,3,48
+190,5F5Ms1SsOJassJZEVcLw1Q,Anthony's Mediterranean Cuisine,"['Redding, CA 96001']",foodtrucks,7602.327836526817,4.3,18,,3,48
+191,iScr841anWC1ZTojKtcrEw,Holy Crepe! Food Truck,"['Redding, CA 96002']",foodtrucks,10448.381839549704,4.2,23,,3,48
+192,E6mtsN-Mgi75Qb8_5_OuIg,Lake Shasta Rentals,"['15155 Fawndale Rd', 'Redding, CA 96003']",boating,16315.467607351644,3.0,1,,3,48
+193,OWHXN2tFuMmsDB3f0BB7-A,Sheridan Creek Outfitters,"['28860 Inwood Rd', 'Shingletown, CA 96088']",horsebackriding,36546.22082106167,5.0,1,,3,48
+194,xlDjKFnosWedKOQKSXxW-g,Trinity River Rafting,"['31021 State Hwy 299 W', 'Big Flat, CA 96010']",rafting,70222.2091213042,4.9,88,,3,48
+195,IPuCHUlcX8uXaMAL6j8QcA,Jack Trout Fly Fishing Guide,"['1004 S Mount Shasta Blvd', 'Mount Shasta, CA 96067']",fishing,79306.55024885565,4.4,22,,3,48
+196,U_GRN7K6Pd6qXFdyPAmJmg,Living Waters Recreation,"['Mount Shasta, CA 96067']",rafting,79854.09252752223,5.0,36,,3,48
+197,r3KdZQ3xReZb39U0etuAbA,Kayak In Northern California,"['Chico, CA 95973']",rafting,93604.52779021626,5.0,2,,3,48
+198,zQFuC76ctZTuXLHd1x6m0Q,Chocolat Duck Desserts,"['777 Cypress Ave', ""Farmer's Markets- Saturdays"", 'Redding, CA 96001']",desserts,15.81250316171902,5.0,1,,4,57
+199,49FMBUGs4_T4VjblxThuEA,Redding Certified Farmers Market,"['777 Cypress Ave', 'Civic Center West Parking Lot', 'Redding, CA 96001']",farmersmarket,27.53335944040868,4.1,9,2.0,4,57
+200,rrqc8MN3qyavLckwukrw9w,Nvcss City Java,"['777 Cypress Ave', 'Redding, CA 96001']",coffee,27.53335944040868,5.0,1,1.0,4,57
+201,8hhhU9fW-8Mn5xYWzqN-VA,Redding City Hall and Sculpture Park,"['777 Cypress Ave', 'Redding, CA 96001']",parks,27.53335944040868,3.3,3,,4,57
+202,uymsEWrBKOiivr9kw-OPbQ,Parkview Market,"['843 Parkview Ave', 'Redding, CA 96001']",grocery,196.82842608037552,4.5,2,1.0,4,57
+203,u6Pvz3RgGPWonG-w5SPW6Q,Tiger Field,"['1000 W Cypress Ave', 'Redding, CA 96001']",stadiumsarenas,320.3245312237754,4.0,1,,4,57
+204,MB40BrcSgTIF57ILf5PAPQ,The Bow Rack,"['928 Cypress Ave', 'Redding, CA 96001']",sportgoods,373.01244540004564,4.2,11,3.0,4,57
+205,LcYeQ4dgl2MQcKWHqOGPTQ,Little Sprouts Urban Farm,"['1043 State St', 'Redding, CA 96001']",farms,396.0318534294611,4.5,2,,4,57
+206,_giv_7ceDTOBePvq1JBM2Q,Safeway,"['2275 Pine St', 'Redding, CA 96001']",grocery,450.0718277687589,2.8,38,2.0,4,57
+207,G7zVEBlKtFRuKZ2C_fW4xA,Starbucks,"['990 Cypress Ave', 'Redding, CA 96001']",coffee,450.9913839739553,3.7,3,,4,57
+208,Z5Zpf5DGx5PS4cSLniKxDA,Curves,"['2485 Athens Ave', 'Redding, CA 96001']",weightlosscenters,466.6300350422957,5.0,1,,4,57
+209,3WuNhRitO3MxHhF4QiizqQ,Curves,"['2485 Athens Ave', 'Redding, CA 96001']",gyms,466.73648980944944,5.0,2,,4,57
+210,PBE-Bd3inm9CHgMnItJ4Sw,Rice Brothers Brazilian Jiu Jitsu,"['2445 Athens Ave', 'Redding, CA 96001']",martialarts,493.72138348157495,4.9,14,,4,57
+211,ZXMmdDjAFxXnMdomxss__w,The Tropics,"['2555 S Market St', 'Redding, CA 96001']",bars,501.62315586201095,4.0,6,,4,57
+212,gIxzKUmBvngrtcae39_JHw,Heart & Soul Nutrition,"['2471 Athens Ave', 'Redding, CA 96001']",juicebars,502.1520778059987,4.4,5,,4,57
+213,EJdON7yA9beFmi4wrvS7_g,Kaleidoscope Coffee Company,"['2380 Athens Ave', 'Redding, CA 96001']",coffee,509.4266429608149,4.1,106,1.0,4,57
+214,QiYJyaQES2pB1NX-aE1DKg,Orchard Nutrition Center,"['221 Locust St', 'Redding, CA 96001']",healthmarkets,553.525131681992,4.1,101,2.0,4,57
+215,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,583.5849052378047,3.8,163,2.0,4,57
+216,Qhwodu7srQaC_c6MMdvz2g,NSFIT Family Fitness,"['2350 Athens Ave', 'Redding, CA 96001']",gyms,591.3371881842563,3.6,9,,4,57
+217,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,593.8409750293141,4.5,149,2.0,4,57
+218,xPAIeKDzHrdo8n9IYuL45w,Lao Market,"['2660 S Market St', 'Redding, CA 96001']",intlgrocery,614.3503784875047,4.3,27,2.0,4,57
+219,C4ZuSwJZ6oggB0mLgOVJGA,Organic Pilates,"['169 Locust St', 'Redding, CA 96001']",pilates,631.7729301284726,4.7,10,,4,57
+220,oTx4ajII1PT4gwjujNrG6w,Laser Recon,"['100 East Cypress Ave', 'Redding, CA 96001']",lasertag,631.9744007388143,3.3,7,,4,57
+221,_USHVTiOvklmYMZGdJr3QQ,Tortilla Flats,"['2800 Park Marina Dr', 'Redding, CA 96001']",mexican,648.628723248568,2.9,120,2.0,4,57
+222,Q2POzsrLL2wDS5inH6u56g,Dutch Bros Coffee,"['3025 S Market St', 'Redding, CA 96001']",coffee,694.0782020606862,4.1,56,1.0,4,57
+223,WljKx6ANc31Ng8MReHbBdg,Under the Rainbow Ceramic & Porcelain Studio,"['2930 S Market St', 'Redding, CA 96001']",galleries,696.0605200958537,4.0,1,,4,57
+224,oKoI537T0kk5nQ8vkUGtUQ,Everyday Fitness & Training,"['2345 Athens Ave', 'Redding, CA 96001']",gyms,708.2562769537395,4.1,51,2.0,4,57
+225,O9wesGb5fts6d391iGTxRA,Shasta Rock Club,"['2325 Athens Ave', 'Redding, CA 96003']",rock_climbing,739.618649626126,4.8,10,,4,57
+226,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,785.4365635836876,4.2,200,2.0,4,57
+227,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,821.9667630237705,4.7,29,,4,57
+228,IRwQQvWP_PI-JBtcZ-A4Yw,Headwaters Adventure Company,"['2655 Park Marina Dr', 'Redding, CA 96001']",rafting,854.7957264609947,4.2,13,,4,57
+229,1wZtFpqrPsZXZK76leyyqw,Sublime Cake Design,"['2633 Park Marina Dr', 'Redding, CA 96002']",bakeries,859.9284991934211,4.7,113,2.0,4,57
+230,ctFFydVlBBTdlgLcpcr0Xw,Homecraft Breads,"['2633 Park Marina Dr', 'Redding, CA 96001']",bakeries,860.7005694006049,2.7,3,,4,57
+231,wSkwr5fN1ZZS8PAuQ1F1lA,Kung Fu San Soo of Redding,"['2645 Park Marina Dr', 'Redding, CA 96001']",chinesemartialarts,874.1516208141467,4.4,7,,4,57
+232,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,942.3672119537664,4.4,62,,4,57
+233,7gkXvgSQJIl4wX7yf8qrvw,Sure Stop,"['3212 S Market St', 'Redding, CA 96001']",servicestations,966.6160986463661,2.3,3,,4,57
+234,m8MZa4LJzoB09tkcrIDiBQ,Bober Tea,"['32 Hartnell Ave', 'Redding, CA 96002']",coffee,989.272922879551,4.2,18,,4,57
+235,mW9K2KxQ_MuFdmxYYoGGLQ,Mochi Dough,"['32 Hartnell Ave', 'Redding, CA 96002']",donuts,989.272922879551,4.2,26,,4,57
+236,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,994.0649028043371,5.0,1,,4,57
+237,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,994.0649028043371,5.0,2,,4,57
+238,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,1018.2008220902206,5.0,1,,4,57
+239,ST11yFuC5QO6iR3QA4GJ9Q,Cookies & Yogurt,"['92 Hartnell Ave', 'Redding, CA 96002']",desserts,1029.0017066173893,3.9,96,1.0,4,57
+240,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,1037.2853280853947,4.7,20,2.0,4,57
+241,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,1101.3054096360956,4.8,4,,4,57
+242,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,1111.7355401107702,2.2,22,4.0,4,57
+243,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,1128.0426647031777,3.6,241,3.0,4,57
+244,XL4YOZtAkdVAMAHOggIfrg,Riddick’s Sports Pub,"['200 Hartnell Ave', 'Redding, CA 96002']",sportsbars,1158.7699217299262,3.7,90,1.0,4,57
+245,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,1159.8297688801708,3.6,41,2.0,4,57
+246,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,1178.3903212926302,3.6,46,2.0,4,57
+247,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,1185.3960305462315,4.2,121,2.0,4,57
+248,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,57.82357368020098,5.0,1,,5,96
+249,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,92.34752908956808,1.0,1,,5,96
+250,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,92.34752908956808,2.9,42,,5,96
+251,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,107.80016213766791,1.8,29,1.0,5,96
+252,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,124.08237970138661,1.7,12,1.0,5,96
+253,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,126.13490195831181,5.0,1,,5,96
+254,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,126.32884214259636,2.1,14,2.0,5,96
+255,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,178.516553970248,4.2,748,2.0,5,96
+256,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,178.74809785617686,4.4,163,,5,96
+257,gmKMRQtdGIVC2zxslYX2Bg,Valero,"['2026 Eureka Way', 'Redding, CA 96001']",servicestations,290.56412739008715,1.6,14,1.0,5,96
+258,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,300.8104751352965,3.0,1,,5,96
+259,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,309.13695969794816,4.4,7,,5,96
+260,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,316.32287772901515,4.5,262,2.0,5,96
+261,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,372.0347841955273,3.7,3,2.0,5,96
+262,f1gw12SubXPHI8hE3AS9GQ,Calzone Life,"['2110 Eureka Way', 'Redding, CA 96001']",fooddeliveryservices,395.5545486489425,4.0,5,,5,96
+263,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,399.50791538053215,4.6,12,,5,96
+264,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,409.43460997291726,4.0,1,,5,96
+265,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,410.2879671485933,4.2,38,1.0,5,96
+266,t0QlYlwad-1vYn7V62Ol2A,Boba Tea & Coffee,"['2110 Eureka Way', 'Redding, CA 96001']",bubbletea,420.2796683364619,4.8,5,,5,96
+267,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,422.21288331589636,3.6,7,2.0,5,96
+268,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,446.7819556881166,3.3,398,3.0,5,96
+269,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,461.84104924399986,5.0,3,,5,96
+270,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,461.84104924399986,5.0,5,1.0,5,96
+271,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,461.84104924399986,5.0,4,,5,96
+272,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,461.84104924399986,5.0,3,,5,96
+273,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,469.4285792177108,3.9,30,,5,96
+274,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,474.6620131064305,5.0,1,,5,96
+275,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,496.0705709910903,5.0,2,,5,96
+276,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,515.5998435792601,4.0,1,,5,96
+277,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,527.8919599772097,5.0,1,,5,96
+278,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,540.5484599336536,1.0,1,,5,96
+279,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,545.3844124871023,2.9,142,1.0,5,96
+280,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,547.2886359601658,3.7,12,1.0,5,96
+281,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,560.7489090730828,4.6,23,,5,96
+282,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,575.7802179036435,4.0,6,,5,96
+283,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,579.3768687084287,4.0,114,2.0,5,96
+284,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,586.6128676976957,4.8,359,2.0,5,96
+285,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,591.9366258399651,5.0,1,,5,96
+286,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,592.9214452697003,5.0,1,,5,96
+287,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,595.4160772328074,1.0,1,,5,96
+288,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,606.9608448936497,5.0,7,,5,96
+289,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,615.0319660866718,5.0,2,,5,96
+290,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,623.6269344648911,5.0,1,,5,96
+291,ISLA6_zQ5sLW4gMV5ppB2Q,Old Shasta Coffee Company,"['2275 Eureka Way', 'Redding, CA 96001']",coffee,626.5559408426591,4.9,60,,5,96
+292,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,636.9668490681086,4.9,37,2.0,5,96
+293,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,652.0752198895611,5.0,1,,5,96
+294,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,665.5270565859549,2.5,2,,5,96
+295,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,674.1805551724208,4.9,17,,5,96
+296,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,674.4490368929477,4.1,752,2.0,5,96
+297,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,677.2937410321015,5.0,1,,5,96
+298,u6Pvz3RgGPWonG-w5SPW6Q,Tiger Field,"['1000 W Cypress Ave', 'Redding, CA 96001']",stadiumsarenas,152.33619647774418,4.0,1,,6,48
+299,LcYeQ4dgl2MQcKWHqOGPTQ,Little Sprouts Urban Farm,"['1043 State St', 'Redding, CA 96001']",farms,201.54070112082903,4.5,2,,6,48
+300,ZXMmdDjAFxXnMdomxss__w,The Tropics,"['2555 S Market St', 'Redding, CA 96001']",bars,230.63397859259484,4.0,6,,6,48
+301,uymsEWrBKOiivr9kw-OPbQ,Parkview Market,"['843 Parkview Ave', 'Redding, CA 96001']",grocery,258.18224597836235,4.5,2,1.0,6,48
+302,zQFuC76ctZTuXLHd1x6m0Q,Chocolat Duck Desserts,"['777 Cypress Ave', ""Farmer's Markets- Saturdays"", 'Redding, CA 96001']",desserts,302.7044532355042,5.0,1,,6,48
+303,49FMBUGs4_T4VjblxThuEA,Redding Certified Farmers Market,"['777 Cypress Ave', 'Civic Center West Parking Lot', 'Redding, CA 96001']",farmersmarket,311.587264393756,4.1,9,2.0,6,48
+304,rrqc8MN3qyavLckwukrw9w,Nvcss City Java,"['777 Cypress Ave', 'Redding, CA 96001']",coffee,311.587264393756,5.0,1,1.0,6,48
+305,8hhhU9fW-8Mn5xYWzqN-VA,Redding City Hall and Sculpture Park,"['777 Cypress Ave', 'Redding, CA 96001']",parks,311.587264393756,3.3,3,,6,48
+306,_giv_7ceDTOBePvq1JBM2Q,Safeway,"['2275 Pine St', 'Redding, CA 96001']",grocery,330.4261338420921,2.8,38,2.0,6,48
+307,G7zVEBlKtFRuKZ2C_fW4xA,Starbucks,"['990 Cypress Ave', 'Redding, CA 96001']",coffee,330.83540059771127,3.7,3,,6,48
+308,MB40BrcSgTIF57ILf5PAPQ,The Bow Rack,"['928 Cypress Ave', 'Redding, CA 96001']",sportgoods,332.65337051623277,4.2,11,3.0,6,48
+309,xPAIeKDzHrdo8n9IYuL45w,Lao Market,"['2660 S Market St', 'Redding, CA 96001']",intlgrocery,363.17378257875936,4.3,27,2.0,6,48
+310,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,404.095066115321,3.8,163,2.0,6,48
+311,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,446.30009054969014,4.5,149,2.0,6,48
+312,WljKx6ANc31Ng8MReHbBdg,Under the Rainbow Ceramic & Porcelain Studio,"['2930 S Market St', 'Redding, CA 96001']",galleries,516.7661640103504,4.0,1,,6,48
+313,Q2POzsrLL2wDS5inH6u56g,Dutch Bros Coffee,"['3025 S Market St', 'Redding, CA 96001']",coffee,556.6410901749558,4.1,56,1.0,6,48
+314,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,621.036796514479,4.7,29,,6,48
+315,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,638.3396135156864,4.2,200,2.0,6,48
+316,Z5Zpf5DGx5PS4cSLniKxDA,Curves,"['2485 Athens Ave', 'Redding, CA 96001']",weightlosscenters,753.0699007926453,5.0,1,,6,48
+317,3WuNhRitO3MxHhF4QiizqQ,Curves,"['2485 Athens Ave', 'Redding, CA 96001']",gyms,753.2833796384384,5.0,2,,6,48
+318,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,759.4429879238985,5.0,1,,6,48
+319,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,759.4429879238985,5.0,2,,6,48
+320,EJdON7yA9beFmi4wrvS7_g,Kaleidoscope Coffee Company,"['2380 Athens Ave', 'Redding, CA 96001']",coffee,767.0873705498731,4.1,106,1.0,6,48
+321,PBE-Bd3inm9CHgMnItJ4Sw,Rice Brothers Brazilian Jiu Jitsu,"['2445 Athens Ave', 'Redding, CA 96001']",martialarts,777.1547007539857,4.9,14,,6,48
+322,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,781.362248694418,5.0,1,,6,48
+323,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,781.5752552681431,4.4,62,,6,48
+324,gIxzKUmBvngrtcae39_JHw,Heart & Soul Nutrition,"['2471 Athens Ave', 'Redding, CA 96001']",juicebars,790.9501662805133,4.4,5,,6,48
+325,Qhwodu7srQaC_c6MMdvz2g,NSFIT Family Fitness,"['2350 Athens Ave', 'Redding, CA 96001']",gyms,815.7699266680758,3.6,9,,6,48
+326,QiYJyaQES2pB1NX-aE1DKg,Orchard Nutrition Center,"['221 Locust St', 'Redding, CA 96001']",healthmarkets,837.9593831996251,4.1,101,2.0,6,48
+327,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,852.4562884723011,2.2,22,4.0,6,48
+328,7gkXvgSQJIl4wX7yf8qrvw,Sure Stop,"['3212 S Market St', 'Redding, CA 96001']",servicestations,871.2959555629163,2.3,3,,6,48
+329,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,876.0513854994339,4.8,4,,6,48
+330,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,885.5237978593539,4.7,20,2.0,6,48
+331,C4ZuSwJZ6oggB0mLgOVJGA,Organic Pilates,"['169 Locust St', 'Redding, CA 96001']",pilates,915.1971625364182,4.7,10,,6,48
+332,oTx4ajII1PT4gwjujNrG6w,Laser Recon,"['100 East Cypress Ave', 'Redding, CA 96001']",lasertag,921.0436512075078,3.3,7,,6,48
+333,_USHVTiOvklmYMZGdJr3QQ,Tortilla Flats,"['2800 Park Marina Dr', 'Redding, CA 96001']",mexican,934.5214838608108,2.9,120,2.0,6,48
+334,oKoI537T0kk5nQ8vkUGtUQ,Everyday Fitness & Training,"['2345 Athens Ave', 'Redding, CA 96001']",gyms,946.6819924845986,4.1,51,2.0,6,48
+335,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,961.9382852025246,3.6,241,3.0,6,48
+336,O9wesGb5fts6d391iGTxRA,Shasta Rock Club,"['2325 Athens Ave', 'Redding, CA 96003']",rock_climbing,964.7056824424773,4.8,10,,6,48
+337,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,990.2747840248221,4.2,121,2.0,6,48
+338,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,992.8934183299251,3.6,41,2.0,6,48
+339,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,1002.5401462669302,3.6,46,2.0,6,48
+340,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,1037.4640427732413,4.4,50,2.0,6,48
+341,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,1049.635500997626,4.5,45,,6,48
+342,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,1081.6218205022724,4.5,13,,6,48
+343,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,1090.4037554104966,5.0,6,2.0,6,48
+344,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,1104.3864425143447,4.1,752,2.0,6,48
+345,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,1176.0039557376592,2.5,2,,6,48
+346,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,126.45949778239805,4.9,17,,7,94
+347,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,129.82454984600946,4.9,37,2.0,7,94
+348,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,148.10976247055936,5.0,1,,7,94
+349,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,179.84314426106215,4.8,359,2.0,7,94
+350,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,183.0629623342665,1.0,1,,7,94
+351,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,187.910884369596,4.0,114,2.0,7,94
+352,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,201.43927824170726,4.0,6,,7,94
+353,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,208.6419631834327,4.6,94,1.0,7,94
+354,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,217.75715800522045,3.7,12,1.0,7,94
+355,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,224.62164142282813,4.3,476,2.0,7,94
+356,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,226.45141329483423,5.0,7,,7,94
+357,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,231.4208956885735,5.0,1,,7,94
+358,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,231.61289493399724,5.0,1,,7,94
+359,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,245.8708028959592,4.6,23,,7,94
+360,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,251.22748431507287,5.0,2,,7,94
+361,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,255.86450616971632,2.9,142,1.0,7,94
+362,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,260.07124666967815,4.0,1,,7,94
+363,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,269.14200918635856,5.0,1,,7,94
+364,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,276.769751014399,4.2,81,2.0,7,94
+365,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,283.42879120594966,5.0,2,,7,94
+366,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,296.1821716385684,5.0,1,,7,94
+367,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,298.5767297180728,5.0,6,2.0,7,94
+368,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,321.2188618924408,3.3,398,3.0,7,94
+369,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,329.6227958784037,5.0,3,,7,94
+370,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,329.6227958784037,5.0,5,1.0,7,94
+371,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,329.6227958784037,5.0,4,,7,94
+372,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,329.6227958784037,5.0,3,,7,94
+373,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,343.30424256770164,5.0,1,,7,94
+374,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,345.56406152648594,3.6,41,2.0,7,94
+375,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,355.2103434681521,1.0,1,,7,94
+376,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,361.1613304958947,4.3,23,2.0,7,94
+377,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,365.7072066987437,3.6,241,3.0,7,94
+378,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,367.0450966519909,4.5,45,,7,94
+379,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,368.17509440090754,3.6,46,2.0,7,94
+380,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,399.53906910117473,3.9,30,,7,94
+381,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,402.9397343369519,4.1,752,2.0,7,94
+382,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,404.22169223526544,4.7,20,2.0,7,94
+383,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,433.83900490647545,4.0,1,,7,94
+384,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,434.7427300426892,4.2,38,1.0,7,94
+385,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,450.977098264213,4.2,121,2.0,7,94
+386,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,454.74295190019535,4.4,50,2.0,7,94
+387,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,455.5705410584573,4.5,262,2.0,7,94
+388,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,461.28215643485356,4.4,7,,7,94
+389,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,471.92238796081006,3.0,1,,7,94
+390,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,482.44381509880407,4.6,12,,7,94
+391,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,492.1222993720493,3.7,3,2.0,7,94
+392,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,509.46021539372623,4.4,62,,7,94
+393,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,554.1505329937866,4.5,13,,7,94
+394,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,588.408019059319,4.2,748,2.0,7,94
+395,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,611.7717510998328,3.6,7,2.0,7,94
+396,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,30.072821662182957,2.1,14,2.0,8,96
+397,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,37.72895365175534,1.8,29,1.0,8,96
+398,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,99.51949826425283,5.0,1,,8,96
+399,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,145.62554847308485,4.2,748,2.0,8,96
+400,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,153.88286184305923,5.0,1,,8,96
+401,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,164.6464091951189,1.7,12,1.0,8,96
+402,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,196.59809400790058,1.0,1,,8,96
+403,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,196.59809400790058,2.9,42,,8,96
+404,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,251.965127256621,4.4,163,,8,96
+405,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,298.96416916421265,3.0,1,,8,96
+406,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,303.79811830862616,4.4,7,,8,96
+407,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,311.77088905813076,4.5,262,2.0,8,96
+408,gmKMRQtdGIVC2zxslYX2Bg,Valero,"['2026 Eureka Way', 'Redding, CA 96001']",servicestations,326.01398370720364,1.6,14,1.0,8,96
+409,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,403.5044443792832,3.7,3,2.0,8,96
+410,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,424.2129425935114,5.0,1,,8,96
+411,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,427.65370402868984,3.3,398,3.0,8,96
+412,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,428.22842531319014,4.0,1,,8,96
+413,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,429.51471191711045,4.2,38,1.0,8,96
+414,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,431.4230659142048,4.6,12,,8,96
+415,f1gw12SubXPHI8hE3AS9GQ,Calzone Life,"['2110 Eureka Way', 'Redding, CA 96001']",fooddeliveryservices,431.3949533447481,4.0,5,,8,96
+416,t0QlYlwad-1vYn7V62Ol2A,Boba Tea & Coffee,"['2110 Eureka Way', 'Redding, CA 96001']",bubbletea,455.1859459911898,4.8,5,,8,96
+417,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,455.4262366262752,5.0,3,,8,96
+418,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,455.4262366262752,5.0,5,1.0,8,96
+419,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,455.4262366262752,5.0,4,,8,96
+420,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,455.4262366262752,5.0,3,,8,96
+421,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,466.3419364363753,1.0,1,,8,96
+422,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,469.70754156921413,4.0,1,,8,96
+423,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,476.75564901326743,5.0,1,,8,96
+424,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,481.2977738178216,5.0,2,,8,96
+425,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,484.3880194602648,3.6,7,2.0,8,96
+426,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,486.79855753146757,3.9,30,,8,96
+427,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,505.92624840466516,4.6,23,,8,96
+428,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,520.5596996806547,3.7,12,1.0,8,96
+429,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,530.5668448774031,4.0,6,,8,96
+430,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,535.0693914124502,2.9,142,1.0,8,96
+431,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,535.0069599374008,5.0,1,,8,96
+432,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,535.8082494613792,5.0,1,,8,96
+433,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,539.054588931543,4.0,114,2.0,8,96
+434,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,546.8976309172338,4.8,359,2.0,8,96
+435,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,548.9948998567174,5.0,7,,8,96
+436,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,550.2489465845249,1.0,1,,8,96
+437,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,551.8704527183648,5.0,2,,8,96
+438,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,559.4996323701918,2.5,2,,8,96
+439,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,581.6975192837898,5.0,1,,8,96
+440,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,583.9937244922529,5.0,1,,8,96
+441,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,590.0965899343356,4.1,752,2.0,8,96
+442,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,594.0958463342987,4.5,13,,8,96
+443,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,597.5269259390183,4.9,37,2.0,8,96
+444,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,605.000485364366,5.0,1,,8,96
+445,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,619.0217484217826,4.2,81,2.0,8,96
+446,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,35.1195183091402,4.5,149,2.0,9,72
+447,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,38.759476959527504,3.8,163,2.0,9,72
+448,G7zVEBlKtFRuKZ2C_fW4xA,Starbucks,"['990 Cypress Ave', 'Redding, CA 96001']",coffee,133.59266088275254,3.7,3,,9,72
+449,_giv_7ceDTOBePvq1JBM2Q,Safeway,"['2275 Pine St', 'Redding, CA 96001']",grocery,134.60709420569623,2.8,38,2.0,9,72
+450,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,219.79159786627622,4.2,200,2.0,9,72
+451,MB40BrcSgTIF57ILf5PAPQ,The Bow Rack,"['928 Cypress Ave', 'Redding, CA 96001']",sportgoods,241.79983765585848,4.2,11,3.0,9,72
+452,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,249.18167667891026,4.7,29,,9,72
+453,u6Pvz3RgGPWonG-w5SPW6Q,Tiger Field,"['1000 W Cypress Ave', 'Redding, CA 96001']",stadiumsarenas,282.6256537278663,4.0,1,,9,72
+454,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,368.91552257762135,4.4,62,,9,72
+455,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,446.0467150699394,5.0,1,,9,72
+456,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,446.0467150699394,5.0,2,,9,72
+457,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,470.1552948784535,4.7,20,2.0,9,72
+458,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,471.82867559455775,5.0,1,,9,72
+459,ZXMmdDjAFxXnMdomxss__w,The Tropics,"['2555 S Market St', 'Redding, CA 96001']",bars,520.0979152942513,4.0,6,,9,72
+460,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,537.0760964461339,4.8,4,,9,72
+461,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,553.516559914892,3.6,241,3.0,9,72
+462,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,585.1367402344622,3.6,41,2.0,9,72
+463,zQFuC76ctZTuXLHd1x6m0Q,Chocolat Duck Desserts,"['777 Cypress Ave', ""Farmer's Markets- Saturdays"", 'Redding, CA 96001']",desserts,595.688481630815,5.0,1,,9,72
+464,LcYeQ4dgl2MQcKWHqOGPTQ,Little Sprouts Urban Farm,"['1043 State St', 'Redding, CA 96001']",farms,595.9076307239231,4.5,2,,9,72
+465,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,600.5860785407353,3.6,46,2.0,9,72
+466,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,602.2627239266253,2.2,22,4.0,9,72
+467,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,605.5455383274468,4.2,121,2.0,9,72
+468,49FMBUGs4_T4VjblxThuEA,Redding Certified Farmers Market,"['777 Cypress Ave', 'Civic Center West Parking Lot', 'Redding, CA 96001']",farmersmarket,607.4761351433258,4.1,9,2.0,9,72
+469,rrqc8MN3qyavLckwukrw9w,Nvcss City Java,"['777 Cypress Ave', 'Redding, CA 96001']",coffee,607.4761351433258,5.0,1,1.0,9,72
+470,8hhhU9fW-8Mn5xYWzqN-VA,Redding City Hall and Sculpture Park,"['777 Cypress Ave', 'Redding, CA 96001']",parks,607.4761351433258,3.3,3,,9,72
+471,xPAIeKDzHrdo8n9IYuL45w,Lao Market,"['2660 S Market St', 'Redding, CA 96001']",intlgrocery,646.4685608122497,4.3,27,2.0,9,72
+472,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,652.2926227178148,4.5,45,,9,72
+473,uymsEWrBKOiivr9kw-OPbQ,Parkview Market,"['843 Parkview Ave', 'Redding, CA 96001']",grocery,655.4853256415776,4.5,2,1.0,9,72
+474,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,657.4246063167365,4.4,50,2.0,9,72
+475,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,684.9089541943771,5.0,6,2.0,9,72
+476,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,716.9204720912886,4.1,752,2.0,9,72
+477,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,726.7963422174654,4.5,13,,9,72
+478,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,730.0359953329046,4.2,81,2.0,9,72
+479,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,734.3730820707875,5.0,1,,9,72
+480,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,769.4361730372694,5.0,1,,9,72
+481,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,816.9702625392512,5.0,2,,9,72
+482,Qhwodu7srQaC_c6MMdvz2g,NSFIT Family Fitness,"['2350 Athens Ave', 'Redding, CA 96001']",gyms,823.7720067469601,3.6,9,,9,72
+483,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,836.355101369271,4.9,17,,9,72
+484,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,840.962938703278,5.0,7,,9,72
+485,EJdON7yA9beFmi4wrvS7_g,Kaleidoscope Coffee Company,"['2380 Athens Ave', 'Redding, CA 96001']",coffee,853.0436247684925,4.1,106,1.0,9,72
+486,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,855.1145905099361,5.0,1,,9,72
+487,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,856.5236014771775,5.0,1,,9,72
+488,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,859.0843887219934,1.0,1,,9,72
+489,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,864.0401586102577,2.5,2,,9,72
+490,WljKx6ANc31Ng8MReHbBdg,Under the Rainbow Ceramic & Porcelain Studio,"['2930 S Market St', 'Redding, CA 96001']",galleries,865.2418695945594,4.0,1,,9,72
+491,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,885.5342719391183,4.6,94,1.0,9,72
+492,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,888.1902704911213,4.6,23,,9,72
+493,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,894.5076827653219,5.0,1,,9,72
+494,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,898.3949992818239,1.0,1,,9,72
+495,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,898.3981284776208,4.9,37,2.0,9,72
+496,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,62.3376230606163,4.7,20,2.0,10,102
+497,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,106.26888382394125,3.6,241,3.0,10,102
+498,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,124.71751342107943,3.6,41,2.0,10,102
+499,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,165.45921240631174,4.4,62,,10,102
+500,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,166.86664493059405,3.6,46,2.0,10,102
+501,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,207.11957840808114,5.0,6,2.0,10,102
+502,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,219.80006024393734,4.5,45,,10,102
+503,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,244.13308348408458,4.2,81,2.0,10,102
+504,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,248.58834664814927,4.2,121,2.0,10,102
+505,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,257.83219629858314,5.0,1,,10,102
+506,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,280.9496078782613,5.0,1,,10,102
+507,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,292.21737630816096,4.4,50,2.0,10,102
+508,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,302.28091306631853,4.2,200,2.0,10,102
+509,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,303.0984866101541,4.1,752,2.0,10,102
+510,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,315.87459253725535,4.9,17,,10,102
+511,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,320.8921852516663,5.0,2,,10,102
+512,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,336.839716818081,5.0,7,,10,102
+513,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,351.52832338918745,5.0,1,,10,102
+514,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,352.80366540642206,5.0,1,,10,102
+515,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,362.25596929897034,4.7,29,,10,102
+516,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,374.6967704345731,4.8,4,,10,102
+517,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,375.0165645904198,5.0,1,,10,102
+518,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,377.4855661738128,4.9,37,2.0,10,102
+519,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,382.8008026310436,1.0,1,,10,102
+520,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,385.5968456513673,4.6,23,,10,102
+521,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,396.5651809342148,1.0,1,,10,102
+522,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,397.8003126196245,4.0,6,,10,102
+523,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,409.1347807197813,4.8,359,2.0,10,102
+524,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,411.92175483890344,4.0,114,2.0,10,102
+525,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,413.2628268930191,4.5,13,,10,102
+526,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,422.680042449204,5.0,1,,10,102
+527,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,422.680042449204,5.0,2,,10,102
+528,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,430.9604264098529,4.6,94,1.0,10,102
+529,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,432.71599231848984,5.0,1,,10,102
+530,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,444.870497249902,4.0,1,,10,102
+531,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,484.81833760496966,3.7,12,1.0,10,102
+532,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,498.1483023003394,4.5,149,2.0,10,102
+533,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,535.4785102953231,3.8,163,2.0,10,102
+534,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,543.9798406334567,4.3,23,2.0,10,102
+535,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,556.9339691623526,2.9,142,1.0,10,102
+536,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,558.3019152621829,5.0,2,,10,102
+537,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,568.6161832652091,4.3,476,2.0,10,102
+538,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,569.5965569886538,3.3,398,3.0,10,102
+539,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,582.2444286148359,2.2,22,4.0,10,102
+540,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,605.1715951725855,5.0,3,,10,102
+541,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,605.1715951725855,5.0,5,1.0,10,102
+542,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,605.1715951725855,5.0,4,,10,102
+543,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,605.1715951725855,5.0,3,,10,102
+544,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,611.0590569896057,2.5,2,,10,102
+545,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,633.8060459024932,5.0,1,,10,102
+546,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,90.7003149536258,3.9,30,,11,94
+547,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,141.68594207375838,4.2,38,1.0,11,94
+548,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,143.19689266389105,4.0,1,,11,94
+549,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,143.4464090894223,5.0,1,,11,94
+550,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,144.6815315200722,4.6,12,,11,94
+551,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,171.79466844180902,3.7,3,2.0,11,94
+552,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,184.5003461036574,5.0,3,,11,94
+553,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,184.5003461036574,5.0,5,1.0,11,94
+554,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,184.5003461036574,5.0,4,,11,94
+555,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,184.5003461036574,5.0,3,,11,94
+556,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,189.70040648355868,2.9,142,1.0,11,94
+557,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,212.68023277869003,5.0,2,,11,94
+558,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,213.4281567179133,3.6,7,2.0,11,94
+559,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,230.85174861972428,4.3,476,2.0,11,94
+560,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,242.41987539297287,3.3,398,3.0,11,94
+561,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,272.25367095931017,3.7,12,1.0,11,94
+562,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,273.38869463039487,4.5,262,2.0,11,94
+563,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,281.0319202723458,3.0,1,,11,94
+564,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,280.9682705666302,4.4,7,,11,94
+565,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,348.82211989169684,4.8,359,2.0,11,94
+566,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,349.6197996388613,4.0,114,2.0,11,94
+567,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,362.22259028964896,4.0,1,,11,94
+568,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,367.3574954450462,4.9,37,2.0,11,94
+569,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,374.0238138167908,4.0,6,,11,94
+570,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,374.73895693885254,5.0,1,,11,94
+571,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,380.67370569862254,1.0,1,,11,94
+572,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,385.7093060752326,4.4,163,,11,94
+573,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,419.79595108560886,4.6,23,,11,94
+574,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,429.5507699340039,4.9,17,,11,94
+575,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,434.17463652687803,4.2,748,2.0,11,94
+576,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,442.8206117553934,5.0,1,,11,94
+577,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,444.23375703665937,5.0,1,,11,94
+578,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,454.9293761255979,5.0,7,,11,94
+579,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,488.0244571425994,5.0,2,,11,94
+580,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,499.3386274437715,5.0,1,,11,94
+581,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,519.2470839070319,1.0,1,,11,94
+582,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,520.8464520132856,4.6,94,1.0,11,94
+583,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,533.116576066444,1.8,29,1.0,11,94
+584,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,535.875249162075,5.0,1,,11,94
+585,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,565.3119436828133,1.0,1,,11,94
+586,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,565.3119436828133,2.9,42,,11,94
+587,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,569.4758314429754,4.2,81,2.0,11,94
+588,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,576.1865917809101,5.0,1,,11,94
+589,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,599.0979890312477,2.1,14,2.0,11,94
+590,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,612.0555652007773,5.0,6,2.0,11,94
+591,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,624.2157695554706,4.3,23,2.0,11,94
+592,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,654.8029285977245,5.0,1,,11,94
+593,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,655.5643190643926,4.1,752,2.0,11,94
+594,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,666.4235289162859,1.7,12,1.0,11,94
+595,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,670.7229620356189,4.5,45,,11,94
+596,x73jVen8F8M14RnINApdKQ,Sundial Bridge,"['840 Sundial Bridge Dr', 'At Turtle Bay Exploration Park', 'Redding, CA 96001']",landmarks,107.41793444874632,4.6,352,,12,15
+597,RkvyHHqTKCvnhTzATPPZ2Q,Mosaic Restaurant,"['826 Sundial Bridge Dr', 'Redding, CA 96001']",bars,179.4206965372907,4.0,799,2.0,12,15
+598,iRmDHFcQyPZ6UkJhMYaQig,Paul Bunyan Forest Camp,"['840 Sundial Bridge Dr', 'Redding, CA 96001']",parks,265.769667050608,5.0,1,,12,15
+599,6t2XgTxEqvake28gt0IlSg,The Monolith,"['Sundial Bridge Dr', 'Redding, CA 96001']",landmarks,332.3846687491918,5.0,1,,12,15
+600,gV_OqnmlcAyA8svG5ZcPpg,Turtle Bay Farmers Market,"['844 Sundial Bridge Dr', 'Redding, CA 96001']",farmersmarket,376.43861119787005,3.0,1,2.0,12,15
+601,C6ExIIw-qq4B-McAa4gyRQ,Turtle Bay Museum Store & Coffee Bar,"['844 Sundial Bridge Dr', 'Redding, CA 96001']",coffee,376.43861119787005,4.1,16,2.0,12,15
+602,ZeTx8Fz7-CP1SDdobdyV6g,Viking Skate Country,"['735 Auditorium Dr', 'Redding, CA 96001']",skatingrinks,509.9649514107708,2.8,37,,12,15
+603,7fl3-GXVknVFFw3h0oz9Wg,McConnell Arboretum & Botanical Gardens,"['840 Sundial Bridge Dr', 'Redding, CA 96001']",museums,615.474883388925,3.4,13,,12,15
+604,7KDXwkVGx0fPcEHdHRQ1gg,Mojobella Fly Fishing,"['1335 Arboretum Dr', 'Redding, CA 96003']",boating,796.3373524753441,5.0,1,,12,15
+605,9qXaWYiZRIDHwPYUiQ3RAw,Shasta Athletic Club,"['1988 Park Marina Dr', 'Redding, CA 96001']",gyms,804.5969075568386,3.4,32,,12,15
+606,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,826.8941163414686,4.3,23,2.0,12,15
+607,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,962.0761726091642,4.6,94,1.0,12,15
+608,q01_pDQIt9_Byy6bTw8X4w,Dutch Bros Coffee,"['695 N Market St', 'Redding, CA 96003']",coffee,972.2583685799157,4.2,16,1.0,12,15
+609,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,1055.7072068192997,4.3,476,2.0,12,15
+610,X9CSGCtuLfW9mPfPNxDTQA,United Gas,"['732 N Market St', 'Redding, CA 96003']",servicestations,1065.3878021960195,2.0,5,,12,15
+611,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,45.42308937286121,1.0,1,,13,94
+612,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,111.21495912140534,4.1,752,2.0,13,94
+613,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,123.93641569321449,5.0,1,,13,94
+614,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,126.179255146876,5.0,1,,13,94
+615,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,127.99657173802207,5.0,2,,13,94
+616,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,145.54358540835332,4.2,81,2.0,13,94
+617,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,155.12291957079648,5.0,1,,13,94
+618,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,155.6111514639881,5.0,7,,13,94
+619,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,155.8743156690726,5.0,1,,13,94
+620,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,160.0450184568017,4.6,23,,13,94
+621,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,173.07155429204784,5.0,6,2.0,13,94
+622,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,175.98704841983323,4.5,45,,13,94
+623,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,182.34501539536234,4.4,50,2.0,13,94
+624,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,204.6974885083745,4.0,1,,13,94
+625,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,211.66169832300713,4.5,13,,13,94
+626,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,218.6371115289709,4.0,6,,13,94
+627,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,225.30982054392206,4.2,121,2.0,13,94
+628,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,225.72984392161055,1.0,1,,13,94
+629,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,232.5198796152856,3.6,46,2.0,13,94
+630,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,246.9401969771918,4.0,114,2.0,13,94
+631,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,252.85694755087113,4.8,359,2.0,13,94
+632,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,253.11040478471836,4.9,17,,13,94
+633,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,256.3696801861636,5.0,1,,13,94
+634,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,262.82656150552657,3.6,41,2.0,13,94
+635,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,277.03959829433717,4.9,37,2.0,13,94
+636,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,292.3369132359483,3.6,241,3.0,13,94
+637,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,308.4481452681209,3.7,12,1.0,13,94
+638,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,325.6413569542904,3.3,398,3.0,13,94
+639,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,352.4595592232124,5.0,2,,13,94
+640,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,357.71722049980406,2.5,2,,13,94
+641,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,379.9517840195538,4.8,4,,13,94
+642,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,381.9169514056703,5.0,3,,13,94
+643,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,381.9169514056703,5.0,5,1.0,13,94
+644,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,381.9169514056703,5.0,4,,13,94
+645,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,381.9169514056703,5.0,3,,13,94
+646,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,382.5819453193842,4.4,7,,13,94
+647,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,383.60080563022166,4.5,262,2.0,13,94
+648,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,389.42755498126974,2.9,142,1.0,13,94
+649,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,393.49061008126336,3.0,1,,13,94
+650,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,394.84512452023193,4.7,20,2.0,13,94
+651,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,400.81501018357574,4.2,748,2.0,13,94
+652,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,422.41663175988987,5.0,1,,13,94
+653,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,464.988829780266,5.0,1,,13,94
+654,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,467.02322935658964,1.8,29,1.0,13,94
+655,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,469.98146309406303,4.4,62,,13,94
+656,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,472.3888993345313,4.0,1,,13,94
+657,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,474.3625355267836,4.2,38,1.0,13,94
+658,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,487.4740486559712,3.9,30,,13,94
+659,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,488.49022639323726,5.0,1,,13,94
+660,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,495.34025255836474,2.1,14,2.0,13,94
+661,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,23.60703886272038,4.0,6,,14,94
+662,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,39.76409187758797,4.6,23,,14,94
+663,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,40.99635409287229,1.0,1,,14,94
+664,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,43.88093300834437,4.0,1,,14,94
+665,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,48.934763758396535,4.0,114,2.0,14,94
+666,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,56.070722088860364,4.8,359,2.0,14,94
+667,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,60.67264092367401,5.0,1,,14,94
+668,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,62.11752930099228,5.0,1,,14,94
+669,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,74.37943807756993,5.0,7,,14,94
+670,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,76.28356754683172,5.0,1,,14,94
+671,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,96.34306110926097,4.9,37,2.0,14,94
+672,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,105.70863244834847,5.0,2,,14,94
+673,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,113.16138566094456,3.7,12,1.0,14,94
+674,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,115.76162035732567,4.9,17,,14,94
+675,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,154.45586317153607,5.0,1,,14,94
+676,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,160.19650578009717,1.0,1,,14,94
+677,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,168.99557235442322,3.3,398,3.0,14,94
+678,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,172.61418574162352,5.0,2,,14,94
+679,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,190.55657234267136,4.2,81,2.0,14,94
+680,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,194.6315401510458,5.0,1,,14,94
+681,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,197.1289362526844,2.9,142,1.0,14,94
+682,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,213.686482812514,5.0,3,,14,94
+683,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,213.686482812514,5.0,5,1.0,14,94
+684,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,213.686482812514,5.0,4,,14,94
+685,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,213.686482812514,5.0,3,,14,94
+686,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,235.18300146536967,5.0,6,2.0,14,94
+687,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,249.6106314453031,5.0,1,,14,94
+688,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,275.32174999389673,4.1,752,2.0,14,94
+689,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,281.3839943990608,4.5,262,2.0,14,94
+690,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,284.5277711668015,4.4,7,,14,94
+691,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,289.2502445326339,4.5,45,,14,94
+692,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,296.44604917626765,3.0,1,,14,94
+693,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,313.73795777926983,4.3,476,2.0,14,94
+694,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,318.2263942273911,3.9,30,,14,94
+695,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,321.1075618388228,4.0,1,,14,94
+696,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,322.8049108997839,4.2,38,1.0,14,94
+697,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,325.2122992317167,3.6,46,2.0,14,94
+698,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,330.27289376730175,3.6,41,2.0,14,94
+699,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,346.72448084082055,4.4,50,2.0,14,94
+700,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,361.191737583184,3.6,241,3.0,14,94
+701,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,369.9276208156291,4.2,121,2.0,14,94
+702,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,371.0076815479998,3.7,3,2.0,14,94
+703,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,373.86089600266587,4.6,12,,14,94
+704,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,381.0111701266498,4.2,748,2.0,14,94
+705,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,407.78621084151143,4.5,13,,14,94
+706,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,431.80643965938646,4.6,94,1.0,14,94
+707,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,445.5055081924979,4.7,20,2.0,14,94
+708,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,478.74609477688625,1.8,29,1.0,14,94
+709,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,505.6370507776793,4.4,163,,14,94
+710,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,516.4823846474236,3.6,7,2.0,14,94
+711,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,95.47024653488714,4.5,262,2.0,15,96
+712,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,95.48238828013562,4.4,7,,15,96
+713,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,102.46014709250002,3.3,398,3.0,15,96
+714,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,107.06830735623804,3.0,1,,15,96
+715,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,149.0666740200729,5.0,3,,15,96
+716,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,149.0666740200729,5.0,5,1.0,15,96
+717,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,149.0666740200729,5.0,4,,15,96
+718,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,149.0666740200729,5.0,3,,15,96
+719,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,154.78538289389425,4.0,1,,15,96
+720,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,157.54848792349247,5.0,2,,15,96
+721,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,185.1765768549167,5.0,1,,15,96
+722,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,187.7460911039957,3.7,12,1.0,15,96
+723,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,191.54763102617363,4.2,748,2.0,15,96
+724,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,197.83815732146613,4.0,1,,15,96
+725,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,199.87543241301879,4.2,38,1.0,15,96
+726,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,209.86873683282192,4.6,23,,15,96
+727,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,212.73062571196795,4.0,6,,15,96
+728,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,213.68618231045107,2.9,142,1.0,15,96
+729,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,214.11738938293624,4.0,114,2.0,15,96
+730,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,221.23022828761347,4.8,359,2.0,15,96
+731,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,224.70141228450234,3.7,3,2.0,15,96
+732,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,232.02274193942344,1.0,1,,15,96
+733,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,232.03422236420525,3.9,30,,15,96
+734,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,240.15778129380942,4.6,12,,15,96
+735,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,242.6596182109892,5.0,1,,15,96
+736,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,243.90655996590203,5.0,1,,15,96
+737,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,245.48314377117373,1.0,1,,15,96
+738,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,258.5608253424954,5.0,1,,15,96
+739,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,258.596317540848,5.0,7,,15,96
+740,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,271.4987567866054,4.9,37,2.0,15,96
+741,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,276.56757078194033,5.0,2,,15,96
+742,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,297.0917292427606,1.8,29,1.0,15,96
+743,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,310.1621601002367,4.4,163,,15,96
+744,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,311.27480934338854,4.9,17,,15,96
+745,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,322.39435871219456,5.0,1,,15,96
+746,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,352.6228752848002,5.0,1,,15,96
+747,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,354.94260475477967,2.1,14,2.0,15,96
+748,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,356.93768454193497,5.0,1,,15,96
+749,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,361.8530885368458,4.2,81,2.0,15,96
+750,oMYYKsC8iDq0UNbiFE-Fkw,Hinkle's Market & Sporting Goods,"['1084 Market St', 'Redding, CA 96001']",grocery,373.1454170070616,3.6,7,2.0,15,96
+751,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,383.31498783608663,4.3,476,2.0,15,96
+752,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,397.449721434302,4.1,752,2.0,15,96
+753,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,406.61551399873764,5.0,6,2.0,15,96
+754,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,432.01682107778544,5.0,1,,15,96
+755,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,434.4348381200014,1.0,1,,15,96
+756,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,434.4348381200014,2.9,42,,15,96
+757,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,443.38516096894085,4.5,45,,15,96
+758,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,470.4438361383578,4.4,50,2.0,15,96
+759,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,480.62719341220776,1.7,12,1.0,15,96
+760,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,484.769836884225,4.5,13,,15,96
+761,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,237.19643221959754,5.0,1,,16,95
+762,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,255.42533649316735,2.5,2,,16,95
+763,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,257.5488615175044,1.0,1,,16,95
+764,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,279.91015239574807,4.5,13,,16,95
+765,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,309.76150594871683,4.2,748,2.0,16,95
+766,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,312.8065597557839,2.1,14,2.0,16,95
+767,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,315.5361562319596,1.8,29,1.0,16,95
+768,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,317.6223586550577,4.1,752,2.0,16,95
+769,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,355.0906108637021,4.4,50,2.0,16,95
+770,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,362.6565738934507,4.6,23,,16,95
+771,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,366.27106237061747,5.0,2,,16,95
+772,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,369.56913289186036,4.0,1,,16,95
+773,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,373.8041030058765,5.0,1,,16,95
+774,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,375.8282999877519,5.0,1,,16,95
+775,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,376.40038648708133,5.0,1,,16,95
+776,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,376.46764364404567,5.0,1,,16,95
+777,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,383.4055339818856,5.0,7,,16,95
+778,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,383.6890833873653,5.0,1,,16,95
+779,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,395.3381107005219,4.4,7,,16,95
+780,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,396.00065452696384,4.2,81,2.0,16,95
+781,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,400.6219059514699,4.5,45,,16,95
+782,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,400.98342062329834,4.5,262,2.0,16,95
+783,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,401.0414624000152,3.0,1,,16,95
+784,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,409.5220048969812,4.2,121,2.0,16,95
+785,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,415.0336468269647,4.0,6,,16,95
+786,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,418.6750468600833,5.0,6,2.0,16,95
+787,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,427.7982257986032,3.3,398,3.0,16,95
+788,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,430.0551953068668,1.0,1,,16,95
+789,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,438.11125597329396,4.0,114,2.0,16,95
+790,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,446.08479581833126,4.8,359,2.0,16,95
+791,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,456.32792932340385,5.0,1,,16,95
+792,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,457.3420754610336,3.6,46,2.0,16,95
+793,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,465.60351406611704,5.0,1,,16,95
+794,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,468.68461423345934,3.7,12,1.0,16,95
+795,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,469.5807555809673,1.7,12,1.0,16,95
+796,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,476.69409394207287,5.0,2,,16,95
+797,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,482.4162658483148,5.0,3,,16,95
+798,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,482.4162658483148,5.0,5,1.0,16,95
+799,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,482.4162658483148,5.0,4,,16,95
+800,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,482.4162658483148,5.0,3,,16,95
+801,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,482.9196871518653,4.9,17,,16,95
+802,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,484.87484647186284,4.8,4,,16,95
+803,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,486.58459473085804,4.9,37,2.0,16,95
+804,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,495.55700327996453,3.6,41,2.0,16,95
+805,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,507.0255593485783,4.4,163,,16,95
+806,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,514.651491884218,1.0,1,,16,95
+807,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,514.651491884218,2.9,42,,16,95
+808,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,520.9291656818169,5.0,1,,16,95
+809,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,520.9814716091901,3.6,241,3.0,16,95
+810,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,528.7451017284131,4.0,1,,16,95
+811,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,150.65378002212898,4.5,13,,17,95
+812,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,190.29754291696668,2.5,2,,17,95
+813,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,208.4123124701002,4.1,752,2.0,17,95
+814,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,209.17061448859195,1.0,1,,17,95
+815,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,232.09170383160202,4.4,50,2.0,17,95
+816,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,286.1869005237289,4.2,121,2.0,17,95
+817,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,289.7360111206723,5.0,1,,17,95
+818,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,290.9976066420938,5.0,1,,17,95
+819,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,291.1130362285717,4.5,45,,17,95
+820,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,299.99603231518523,5.0,1,,17,95
+821,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,308.8742134274706,5.0,2,,17,95
+822,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,311.55732283840297,4.2,81,2.0,17,95
+823,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,323.3600481202756,5.0,6,2.0,17,95
+824,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,330.8841239113537,4.6,23,,17,95
+825,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,332.9055859658964,5.0,1,,17,95
+826,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,333.46286216345464,5.0,1,,17,95
+827,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,335.17669301116047,5.0,7,,17,95
+828,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,345.00967727618064,3.6,46,2.0,17,95
+829,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,356.66887822763687,4.8,4,,17,95
+830,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,359.7046266909331,4.0,1,,17,95
+831,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,386.09122258813693,3.6,41,2.0,17,95
+832,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,389.2284748929247,4.0,6,,17,95
+833,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,399.61174989050255,1.0,1,,17,95
+834,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,408.40778141691254,3.6,241,3.0,17,95
+835,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,410.93349904223925,4.2,748,2.0,17,95
+836,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,416.2913556187702,4.0,114,2.0,17,95
+837,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,423.21812880736934,4.8,359,2.0,17,95
+838,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,432.574981077144,5.0,1,,17,95
+839,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,433.8158418461908,4.9,17,,17,95
+840,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,435.90733238703865,1.8,29,1.0,17,95
+841,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,439.76686064670537,2.1,14,2.0,17,95
+842,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,453.50547603150164,3.3,398,3.0,17,95
+843,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,453.6750286409897,4.9,37,2.0,17,95
+844,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,458.1701343828163,5.0,1,,17,95
+845,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,460.1376784376911,4.4,7,,17,95
+846,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,464.10196502982114,4.5,262,2.0,17,95
+847,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,465.57546369090926,2.2,22,4.0,17,95
+848,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,465.9824460175074,3.7,12,1.0,17,95
+849,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,468.35639658202655,3.0,1,,17,95
+850,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,476.9671876983634,5.0,1,,17,95
+851,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,476.9671876983634,5.0,2,,17,95
+852,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,493.5044616477289,5.0,2,,17,95
+853,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,507.6458718461981,4.7,20,2.0,17,95
+854,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,511.316021874407,5.0,3,,17,95
+855,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,511.316021874407,5.0,5,1.0,17,95
+856,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,511.316021874407,5.0,4,,17,95
+857,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,511.316021874407,5.0,3,,17,95
+858,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,512.6442709704185,5.0,1,,17,95
+859,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,539.6428862361132,2.9,142,1.0,17,95
+860,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,552.1295940528937,5.0,1,,17,95
+861,tD0Cxx-DkDoDKMltveXJBw,Schreder Planetarium,"['1644 Magnolia Ave', 'Redding, CA 96001']",planetarium,24.74575723980495,4.4,8,,18,88
+862,jkKDV4EGYcceTeKJ3mQIwA,The classroom,"['1644 Magnolia Ave', 'Redding, CA 96001']",coffee,25.156225239651935,5.0,1,,18,88
+863,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,338.61995076558077,5.0,1,,18,88
+864,GX7LMUgVgIT_1fsKxnWKqA,Redding Dog Park,"['Corner Of Airpark And Placer', 'Redding, CA 96001']",dog_parks,457.5313713564883,4.0,49,,18,88
+865,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,477.09147393010426,2.5,2,,18,88
+866,0SnAIXlRN1oCmjUnv85fTQ,Starbucks,"['1893 Eureka Way', 'Redding, CA 96001']",coffee,665.5007009904316,5.0,1,,18,88
+867,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,667.5911196198896,2.1,14,2.0,18,88
+868,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,675.1490373756756,4.5,13,,18,88
+869,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,685.314397709636,2.2,22,4.0,18,88
+870,ISLA6_zQ5sLW4gMV5ppB2Q,Old Shasta Coffee Company,"['2275 Eureka Way', 'Redding, CA 96001']",coffee,706.6205417042914,4.9,60,,18,88
+871,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,723.1370933843244,1.8,29,1.0,18,88
+872,gmKMRQtdGIVC2zxslYX2Bg,Valero,"['2026 Eureka Way', 'Redding, CA 96001']",servicestations,726.8963877925281,1.6,14,1.0,18,88
+873,6xbBzNFgIldIBE_oFsZxmQ,7-Eleven,"['1860 Eureka Way', 'Redding, CA 96001']",convenience,728.1250749714881,1.7,12,1.0,18,88
+874,f1gw12SubXPHI8hE3AS9GQ,Calzone Life,"['2110 Eureka Way', 'Redding, CA 96001']",fooddeliveryservices,752.6690955506645,4.0,5,,18,88
+875,t0QlYlwad-1vYn7V62Ol2A,Boba Tea & Coffee,"['2110 Eureka Way', 'Redding, CA 96001']",bubbletea,756.4951942325721,4.8,5,,18,88
+876,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,778.0346180290077,4.8,4,,18,88
+877,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,793.6136680819297,4.2,748,2.0,18,88
+878,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,797.1239567788905,4.4,50,2.0,18,88
+879,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,806.7720157833014,4.1,752,2.0,18,88
+880,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,814.4556963319408,5.0,1,,18,88
+881,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,816.4353635476231,1.0,1,,18,88
+882,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,839.7867043535649,4.2,121,2.0,18,88
+883,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,840.2746552542392,5.0,1,,18,88
+884,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,840.2746552542392,5.0,2,,18,88
+885,S6IBvNePsgVllKOBmQQaJQ,Ellen Simonis Dba Pilates Personal Training,"['1740 Eureka Way', 'Redding, CA 96001']",healthtrainers,841.1095408261094,5.0,1,,18,88
+886,EKUilYPLNDyTGoG_TjXaww,Phat Straw,"['2475 Eureka Way', 'Redding, CA 96001']",coffee,845.7314172510837,4.5,26,,18,88
+887,InoXt5SDNlvamEO_M0VmfA,Mountain District YMCA,"['1155 N Ct St', 'Redding, CA 96001']",gyms,847.2332732160876,1.0,1,,18,88
+888,QDfYWC2ey0t0bhE-4v4lXw,Shasta Family YMCA,"['1155 N Court St', 'Redding, CA 96001']",gyms,847.2332732160876,2.9,42,,18,88
+889,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,881.0924207077255,4.5,45,,18,88
+890,d8-FL1wpUEWAUJchf3172w,Smallshots,"['2536 Old Eureka Way', 'Redding, CA 96001']",eventphotography,888.070348991936,5.0,1,,18,88
+891,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,900.992244926713,5.0,1,,18,88
+892,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,913.8985023226513,5.0,1,,18,88
+893,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,921.3244609440983,5.0,2,,18,88
+894,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,922.9732257551113,4.2,81,2.0,18,88
+895,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,924.6777195398319,3.6,46,2.0,18,88
+896,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,928.0481253105831,5.0,6,2.0,18,88
+897,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,931.9933894607348,4.4,7,,18,88
+898,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,932.4684464169217,4.6,23,,18,88
+899,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,933.7104920353587,3.0,1,,18,88
+900,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,939.2197524549721,4.5,262,2.0,18,88
+901,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,940.8180098671405,5.0,1,,18,88
+902,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,941.1596728695567,5.0,1,,18,88
+903,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,944.9830544043743,4.0,1,,18,88
+904,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,945.0972041606092,5.0,7,,18,88
+905,LSDdeqz_or0rcTrkfCaxww,Karline's Restaurant,"['1100 Center St', 'Redding, CA 96001']",bars,948.0131298357894,4.4,163,,18,88
+906,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,968.2750545491493,3.6,41,2.0,18,88
+907,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,981.9167713613605,3.6,241,3.0,18,88
+908,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,987.6408533027866,4.0,6,,18,88
+909,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,996.1710708034782,3.3,398,3.0,18,88
+910,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,1001.2683086137015,1.0,1,,18,88
+911,8E1cIyIDXaTP-hMbM820Xg,CVS Pharmacy,"['2025 Court St', 'Ste A', 'Redding, CA 96001']",drugstores,49.92273079105837,2.2,22,4.0,19,93
+912,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,202.05005359765218,5.0,1,,19,93
+913,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,225.23468265827765,5.0,1,,19,93
+914,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,225.23468265827765,5.0,2,,19,93
+915,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,230.9877062652317,4.8,4,,19,93
+916,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,304.4534018608431,2.5,2,,19,93
+917,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,331.0812061033623,4.5,13,,19,93
+918,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,398.35501522669153,4.4,50,2.0,19,93
+919,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,400.47422162143914,4.2,121,2.0,19,93
+920,rmkMkpGpEE4sDgdiOYe2BA,TRUE  Ride,"['2100 Market St', 'Redding, CA 96001']",cyclingclasses,431.165845511868,4.7,29,,19,93
+921,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,462.13766791790766,4.1,752,2.0,19,93
+922,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,483.39074443842657,4.5,45,,19,93
+923,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,490.0518961070229,3.6,46,2.0,19,93
+924,scH8ITMVMRPRyV-KX1o1Uw,Healing Arts Collective,"['1539 Chestnut St', 'Redding, CA 96001']",massage_therapy,510.36129703417936,5.0,1,,19,93
+925,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,518.0854941844485,3.6,241,3.0,19,93
+926,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,518.5531463025568,4.4,62,,19,93
+927,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,524.1076122812868,3.6,41,2.0,19,93
+928,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,551.9268357813834,5.0,6,2.0,19,93
+929,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,557.5974207517423,4.7,20,2.0,19,93
+930,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,562.5342898571939,5.0,1,,19,93
+931,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,578.619142150482,4.2,81,2.0,19,93
+932,-bURSXDTgRK0wFp0_oNbpg,Evergreen - Coffee Shop & Boutique Hotel,"['2085 Pine St', 'Redding, CA 96001']",coffee,586.0992797703882,4.2,200,2.0,19,93
+933,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,586.9655375287584,1.0,1,,19,93
+934,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,598.3811809669361,5.0,1,,19,93
+935,iL3NvT9D-qWaEUWFy6mMpQ,Lulu's Eating & Drinking Establishment,"['2230 Pine St', 'Redding, CA 96001']",tradamerican,625.7352353911978,3.8,163,2.0,19,93
+936,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,637.4506758741572,5.0,2,,19,93
+937,tD0Cxx-DkDoDKMltveXJBw,Schreder Planetarium,"['1644 Magnolia Ave', 'Redding, CA 96001']",planetarium,659.3022233061116,4.4,8,,19,93
+938,jkKDV4EGYcceTeKJ3mQIwA,The classroom,"['1644 Magnolia Ave', 'Redding, CA 96001']",coffee,659.8482635469677,5.0,1,,19,93
+939,F27KSZMKqUdGHYwxiSW0vA,R & R Quality Meats & Seafood,"['2159 East St', 'Redding, CA 96001']",meats,662.402578865033,4.5,149,2.0,19,93
+940,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,672.1512518300067,5.0,7,,19,93
+941,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,678.4537047448196,5.0,1,,19,93
+942,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,679.6611618565687,5.0,1,,19,93
+943,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,694.726995562513,4.6,23,,19,93
+944,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,744.5768908092925,4.9,17,,19,93
+945,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,746.0825591039599,4.0,1,,19,93
+946,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,749.6694712158978,4.0,6,,19,93
+947,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,751.0362198491748,1.0,1,,19,93
+948,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,773.5755872814325,5.0,1,,19,93
+949,G7zVEBlKtFRuKZ2C_fW4xA,Starbucks,"['990 Cypress Ave', 'Redding, CA 96001']",coffee,773.7219177558419,3.7,3,,19,93
+950,_giv_7ceDTOBePvq1JBM2Q,Safeway,"['2275 Pine St', 'Redding, CA 96001']",grocery,774.7282591633929,2.8,38,2.0,19,93
+951,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,777.8648945731686,4.0,114,2.0,19,93
+952,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,782.09761617819,4.8,359,2.0,19,93
+953,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,791.0957186612295,4.9,37,2.0,19,93
+954,ZXMmdDjAFxXnMdomxss__w,The Tropics,"['2555 S Market St', 'Redding, CA 96001']",bars,813.3996411962007,4.0,6,,19,93
+955,u6Pvz3RgGPWonG-w5SPW6Q,Tiger Field,"['1000 W Cypress Ave', 'Redding, CA 96001']",stadiumsarenas,843.1611587386814,4.0,1,,19,93
+956,xPAIeKDzHrdo8n9IYuL45w,Lao Market,"['2660 S Market St', 'Redding, CA 96001']",intlgrocery,845.4290557185863,4.3,27,2.0,19,93
+957,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,846.92837585861,3.7,12,1.0,19,93
+958,DfPuiXFfgl1-5p6KX1XriA,Rite Aid,"['1801 Eureka Way', 'Redding, CA 96001']",drugstores,848.3372118930203,2.1,14,2.0,19,93
+959,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,850.0939729421319,4.2,748,2.0,19,93
+960,f3OOqUo6ACcHafFjDLPRxw,Walgreens,"['1775 Eureka Way', 'Redding, CA 96001']",cosmetics,860.1025387247716,1.8,29,1.0,19,93
+961,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,42.39958551498018,5.0,1,,20,95
+962,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,51.10407958048659,5.0,1,,20,95
+963,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,65.61284132860858,5.0,2,,20,95
+964,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,66.34979231158621,4.2,81,2.0,20,95
+965,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,87.92363455278745,1.0,1,,20,95
+966,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,100.17209307038902,5.0,7,,20,95
+967,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,102.88678116398205,5.0,6,2.0,20,95
+968,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,106.87428169870795,5.0,1,,20,95
+969,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,108.14674129444367,5.0,1,,20,95
+970,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,110.23275469292572,4.1,752,2.0,20,95
+971,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,128.23234364922277,4.6,23,,20,95
+972,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,132.71924376705445,4.5,45,,20,95
+973,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,178.72026504989387,4.0,6,,20,95
+974,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,179.0377216948904,1.0,1,,20,95
+975,hWpLQDH-PlLBkWNl-bcO1Q,The Dip,"['1730 California St', 'Redding, CA 96001']",bars,180.70084692390517,4.4,50,2.0,20,95
+976,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,180.96579833980002,3.6,46,2.0,20,95
+977,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,184.9905664967325,4.9,17,,20,95
+978,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,188.56419673516143,4.0,1,,20,95
+979,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,201.63169330686614,3.6,41,2.0,20,95
+980,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,202.74679313186243,5.0,1,,20,95
+981,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,206.492355785644,4.0,114,2.0,20,95
+982,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,206.55802629874606,4.2,121,2.0,20,95
+983,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,210.3296978416232,4.8,359,2.0,20,95
+984,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,221.47391392244626,4.9,37,2.0,20,95
+985,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,233.04885277583924,3.6,241,3.0,20,95
+986,vvRKFw6hyY5vK3F6UHTzvg,Align Pain Management,"['1615 Placer St', 'Redding, CA 96001']",healthtrainers,252.93189919150723,4.5,13,,20,95
+987,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,278.9709629710537,3.7,12,1.0,20,95
+988,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,321.95217576347056,3.3,398,3.0,20,95
+989,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,332.2728852779368,4.7,20,2.0,20,95
+990,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,336.2772535726354,5.0,2,,20,95
+991,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,363.08951006951764,2.9,142,1.0,20,95
+992,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,373.4703857482349,5.0,3,,20,95
+993,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,373.4703857482349,5.0,5,1.0,20,95
+994,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,373.4703857482349,5.0,4,,20,95
+995,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,373.4703857482349,5.0,3,,20,95
+996,CKUtFK5sqlRYxQN_FPDghg,Riverfront Playhouse,"['1950 California St', 'Redding, CA 96002']",theater,383.80502514526256,4.8,4,,20,95
+997,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,405.9094397411973,4.5,262,2.0,20,95
+998,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,406.49325010215495,4.4,7,,20,95
+999,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,411.7362470352003,5.0,1,,20,95
+1000,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,417.43405874685345,4.4,62,,20,95
+1001,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,418.15673449912833,3.0,1,,20,95
+1002,n6IPzpOm4b4g2SYNPyoRAQ,Jernigan's Market,"['1821 Placer St', 'Redding, CA 96001']",grocery,423.38946370851045,2.5,2,,20,95
+1003,ONn_p2HKDThmmXlOWRGlaQ,Woody's Brewing,"['1257 Oregon St', 'Redding, CA 96001']",newamerican,452.4030850180173,4.2,748,2.0,20,95
+1004,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,464.00190400062127,4.3,476,2.0,20,95
+1005,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,474.7531202221366,4.0,1,,20,95
+1006,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,476.60911054931046,4.2,38,1.0,20,95
+1007,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,479.6948705107665,3.9,30,,20,95
+1008,sTVbYpm_pD9BONlFfcA2CA,Shasta Gymnastics Academy,"['2024 Waldon St', 'Redding, CA 96002']",gymnastics,489.0548867433113,5.0,1,,20,95
+1009,0hMCa-UdR1b07U8st31DNA,California Dance Company: Redding Studio,"['2040 Waldon St', 'Redding, CA 96001']",dancestudio,496.0042520677981,5.0,1,,20,95
+1010,OBpuuhLVzLdE-hFh4Iu_yA,Pourboys Tapyard,"['2040 Waldon St', 'Redding, CA 96001']",beerbar,496.0042520677981,5.0,2,,20,95
+1011,LBmlc31lc_EyxRz62aTU-g,Caffé Pagato,"['1031 Butte St', 'Redding, CA 96001']",coffee,86.21338984705869,4.6,94,1.0,21,96
+1012,w0X3QmkQdDzbMlHQ52e5CA,All Fired Up,"['939 Butte St', 'Redding, CA 96002']",paintandsip,122.77465020320633,4.3,23,2.0,21,96
+1013,m4kUD4Ng_VgVwd2qpSkd1g,Deja Vu,"['1177 Shasta St', 'Redding, CA 96001']",breakfast_brunch,277.10882744542295,4.3,476,2.0,21,96
+1014,ZeTx8Fz7-CP1SDdobdyV6g,Viking Skate Country,"['735 Auditorium Dr', 'Redding, CA 96001']",skatingrinks,378.6966558355017,2.8,37,,21,96
+1015,Wzd5ecVfJgVjB-0U0mCwuA,Moseley Family Cellars,"['1448 Pine St', 'Redding, CA 96001']",winetastingroom,383.94704055561994,4.9,37,2.0,21,96
+1016,frsH30R_HBm3udCdr8hJWQ,Westside Tap & Cork,"['1321 Butte St', 'Ste 140', 'Redding, CA 96001']",wine_bars,392.2642078387459,4.9,17,,21,96
+1017,NmmcpaINVC0t4IL-ghzLHQ,Haven Elements,"['1322 Butte St', 'Gather Downtown', 'Redding, CA 96001']",galleries,404.6924512153416,5.0,1,,21,96
+1018,wa6Nho6tSsp2QOfcQw6Yqw,Heavenly Donuts,"['1313 Shasta St', 'Redding, CA 96001']",donuts,424.7755207282959,2.9,142,1.0,21,96
+1019,TGxYYm4mUtxYktKBmSuOnw,Taste & See Creamery,"['1419 Market St', 'Redding, CA 96001']",icecream,428.120356819911,4.8,359,2.0,21,96
+1020,vvPO574nUH3ZMGATTlYTEQ,Squire Room,"['1336 Tehama St', 'Redding, CA 96001']",cocktailbars,433.89007941395624,3.7,12,1.0,21,96
+1021,2xOc1-oxmU5KljRxzoc8Mw,From the Hearth Kitchen & Pie Shop - Redding,"['1427 Market St', 'Redding, CA 96001']",bakeries,436.40694257656753,4.0,114,2.0,21,96
+1022,HbKm7lx0IK8UqagWXvckrQ,Shasta Historical Society,"['1449 Market St', 'Redding, CA 96001']",museums,440.395290226228,1.0,1,,21,96
+1023,SrAEVfWsoEiPpgKnJDUcRw,Trina's Boot Camp For Women,"['1441 Market St', 'Redding, CA 96001']",bootcamps,456.5133257351412,4.0,6,,21,96
+1024,4ci-Lb4AgAfc4fpa-BqV1w,Axiom Repertory Theatre,"['1313 Market St', 'Old City Hall', 'Redding, CA 96001']",theater,474.3832300937774,5.0,2,,21,96
+1025,QJ5KJXnZtU-B_9ABwMHdVQ,Area 151,"['1518 Market St', 'Redding , CA 96001']",videogamestores,491.9885647558781,5.0,7,,21,96
+1026,AOPhINdamKo417PE7dE5Jg,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,496.10169948983724,5.0,1,,21,96
+1027,DGPsQByaUj0nb_qY0FcJVQ,The Art Hunger,"['1504 Market St', 'Redding, CA 96001']",galleries,496.3965228817732,5.0,1,,21,96
+1028,FHILMhh-ryy7Ov3Tg8i2RQ,A Taste of Burnsini Vineyards,"['1261 Market St', 'Redding, CA 96001']",winetastingroom,502.0639009567227,5.0,1,,21,96
+1029,cjWhxBQJXtDyjz_eLlv5qA,Extreme Escape Redding,"['1440 Butte St', 'Redding, CA 96001']",escapegames,507.3811566838219,4.6,23,,21,96
+1030,iTUNsy8w21wee53kdAfg2A,Pacific Track Time,"['Redding, CA 96049']",recreation,508.724768069905,5.0,3,,21,96
+1031,m7fTshbgdYXM7OMqhFivUQ,Music With Mr Ed,"['Redding, CA 96003']",musicalinstrumentsandteachers,508.724768069905,5.0,5,1.0,21,96
+1032,olNODhi5WEYfQeVLjNhDqg,NorCal Fishing Guides,"['Redding, CA 96003']",tours,508.724768069905,5.0,4,,21,96
+1033,Mhl6pHqL4hJr2_KE7ECp1g,530 Outfitters Guided Fly Fishing ,"['Redding, CA 96003']",boatcharters,508.724768069905,5.0,3,,21,96
+1034,Q9c2s_Jy0sKc4pWS9vhjew,Winterfest Christmas Spectacular,"['1400 Market St', 'Redding, CA 96001']",festivals,509.15917914831294,4.0,1,,21,96
+1035,pEit6oOc-aEZoULX1WA16g,Cask & Cleaver,"['1534 Market St', 'Redding, CA 96001']",catering,517.0072156513394,5.0,2,,21,96
+1036,gSSxGLA8LyztK595j2zxqA,Kobe Seafood & Steakhouse,"['1300 Market St', 'Ste 101', 'Redding, CA 96001']",seafood,526.136630656378,3.3,398,3.0,21,96
+1037,-D8Uw3E9wfILcW_a7mPEOA,The Shack Social,"['1325 Eureka Way', 'Redding, CA 96001']",social_clubs,531.6692469228502,3.9,30,,21,96
+1038,EJA2C2GUZ-4b6eUtFafSSA,The Farm,"['1418 Yuba St', 'Redding, CA 96001']",farmersmarket,532.0779509078299,5.0,1,,21,96
+1039,Sz1jiJT4b_bE-KNX7S37CA,Post Office Saloon & Grill,"['1636 Market St', 'Downtown Redding Mall', 'Redding, CA 96001']",tradamerican,534.3004733933088,4.2,81,2.0,21,96
+1040,KjEy3c_QSz24b4YCG1IB1Q,Furnari Sausages Co,"['1670 Market St', 'Redding, CA 96001']",meats,547.6728334002238,5.0,6,2.0,21,96
+1041,ZIEa_CjKkBNQ_xSY8ItyJQ,Board and Brush - Redding,"['1419A Yuba St', 'Redding, CA 96001']",artclasses,555.108153040696,5.0,1,,21,96
+1042,8zGzj5i0AnNhL8sXL_SDow,Cascade Theatre,"['1731 Market St', 'Redding, CA 96001']",musicvenues,567.8069514488939,3.6,41,2.0,21,96
+1043,6t2XgTxEqvake28gt0IlSg,The Monolith,"['Sundial Bridge Dr', 'Redding, CA 96001']",landmarks,574.50054961851,5.0,1,,21,96
+1044,bbFV2MAL2KdXZ3txwaI_wQ,The Grape Escape,"['1824 Pine St', 'Redding, CA 96001']",beer_and_wine,578.3158961450499,4.7,20,2.0,21,96
+1045,nd7wlihGZ5hm01aaqJhHPg,Market Street Blade And Barrel,"['1777 Market St', 'Redding, CA 96001']",steak,578.6048636364188,3.6,241,3.0,21,96
+1046,A6-vQdy0frlFcBki0mcaTg,River City Java,"['1200 Market St', 'Redding, CA 96001']",coffee,584.5883187321436,4.0,1,,21,96
+1047,-qFvXY2SHGfcEYCIJ0108Q,Dutch Bros Coffee,"['1200 Market St', 'Redding, CA 96001']",coffee,584.6302371891964,4.2,38,1.0,21,96
+1048,O7FWL986cfUGAD9WKikqRQ,Downtown Bar & Grill,"['1724 Market St', 'Redding, CA 96001']",tradamerican,600.5039563430306,3.6,46,2.0,21,96
+1049,6xXL5KKAonbGeuHfyC866w,Cedar Crest Brewing,"['1475 Placer St', 'Ste B', 'Redding, CA 96001']",breweries,613.3271281849729,4.5,45,,21,96
+1050,LvtdDxlAYXzD7bXkmk8NHA,Downtown Grounds ,"['1400 Eureka Way', 'Redding, CA 96001']",coffee,620.0602325079702,4.6,12,,21,96
+1051,rtQ04hajd4KYOqFADSnIyA,River Valley Collective,"['1530 California St', 'Redding, CA 96001']",herbsandspices,620.6275310149776,1.0,1,,21,96
+1052,2WOrh-ii-4gai4i6kK9DuQ,Dive Outdoors,"['1426 Eureka Way', 'Redding, CA 96001']",diveshops,639.3604137440677,3.7,3,2.0,21,96
+1053,8vJ1HFDkQxsnlgCFJOnTGg,Theory Coffee Roasters,"['1250 California St', 'Redding, CA 96001']",coffee,653.6037083820863,4.5,262,2.0,21,96
+1054,GQAuKx9jqOCBYeEzR2aOpw,Eden Bakery,"['1250 California St', 'Redding, CA 96001']",bakeries,660.8105083723887,4.4,7,,21,96
+1055,bRyY-4re52Pg-IFpQBY2BQ,Final Draft Brewing Company,"['1600 California St', 'Redding, CA 96001']",breweries,661.1528254906982,4.1,752,2.0,21,96
+1056,Y17HW5DyFKxrcmmsbjqlqA,The vault,"['1244 California St', 'Redding, CA 96001']",gaybars,669.1898971723309,3.0,1,,21,96
+1057,rgvwGrdnSPGdw92xypeHmg,Roots Juice Bar,"['1950 Pine St', 'Redding, CA 96001']",juicebars,671.479328909296,4.4,62,,21,96
+1058,gV_OqnmlcAyA8svG5ZcPpg,Turtle Bay Farmers Market,"['844 Sundial Bridge Dr', 'Redding, CA 96001']",farmersmarket,687.1649580337333,3.0,1,2.0,21,96
+1059,C6ExIIw-qq4B-McAa4gyRQ,Turtle Bay Museum Store & Coffee Bar,"['844 Sundial Bridge Dr', 'Redding, CA 96001']",coffee,687.1649580337333,4.1,16,2.0,21,96
+1060,UXPkQGuZ6u71z36rbluYcA,Fratelli's Pizza Parlor,"['1774 California St', 'Redding, CA 96001']",salad,691.4855115680467,4.2,121,2.0,21,96
