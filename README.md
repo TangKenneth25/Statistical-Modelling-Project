@@ -6,8 +6,6 @@ Coded in Python 3.9.19 <br>
 Complete the assignment as follows:
 
 1. Explore API structure and generate Pandas dataframe from [CityBikes](https://citybik.es/) for bike stations in Redding, California. This city was chosen as the more remote location also allows will reduce the impact of the limited API calls and will allow for comparison of the quality of information returned from Foursquare and Yelp for a more remote location.
-<img src='https://i.imgur.com/Qw1AG5j.png'>
-
 
 2. Connect to Foursquare and Yelp APIs to retrieve restaurants, bars, and landmarks from each bike station found in Part 1. Compare the quality of information provided by Foursquare and Yelp under the criteria of number of POIs, number of returned arguments, and value of arguments returned.
 
@@ -76,7 +74,6 @@ Combining the data from the two APIs, a statistically significant model was foun
 * Complete analysis of a city with more bike stations to have more data points for statstical analysis. 
 * Organise and create a better shema for the SQLite database
 * Rerun analysis for a city with more bike stations
-* 
 
 ## Additional Notes
 Certain functions and blocks of code were adapted from material provided in Lighthouse Labs Data Science course material
