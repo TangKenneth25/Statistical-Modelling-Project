@@ -53,11 +53,11 @@ A couple notable difference between the Foursquare and Yelp API:
 
 Combining the data from the two APIs, a statistically significant model was found, showing a relationship between the distance and number of venues in a location to the number of bike slots available at each bike station:
 
- `11.9609-0.0897(venues)-0.0073(distanceIdistancenMeters)=(bikeSlots)`
+  `8.22-0.0895(venues)-0.0065(distance)+0.02(ratings)=(BikeSlots)`
  
- Where venues is number of POIs in area, distance is the distance in meters of the POIs to the bike station, and bikeSlots being the total bike capacity of a given bike station.
+ Where venues is number of POIs in area, distance is the distance in meters of the POIs to the bike station, ratings is the average number of ratings (not average rating itself!) and bikeSlots being the total bike capacity of a given bike station.
 
- <img src='https://i.imgur.com/84otJLd.png'>
+ <img src='https://i.imgur.com/bAML0lJ.png'>
 
 
 ## Challenges 
@@ -74,6 +74,7 @@ Combining the data from the two APIs, a statistically significant model was foun
 * Complete analysis of a city with more bike stations to have more data points for statstical analysis. 
 * Organise and create a better shema for the SQLite database
 * Rerun analysis for a city with more bike stations
+* Match the scale of each API before combining
 
 ## Additional Notes
 Certain functions and blocks of code were adapted from material provided in Lighthouse Labs Data Science course material
